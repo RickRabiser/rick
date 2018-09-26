@@ -10,8 +10,6 @@ Office: Computer Science Building (Science Park 3), Room 216
 
 <strong>Information for Students</strong>: I have no explicit office hours, so if you need something, e.g., information on the courses I teach or about available projects, Bachelor's theses, and Master's theses, do not hesitate to contact me via e-mail at any time and we will arrange an appointment. Information on courses is available in <a href="http://kusss.jku.at">KUSSS</a>.
 
-<hr />
-
 ## Research Interests
 
 <ul>
