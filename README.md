@@ -1,6 +1,5 @@
 ## Welcome to Rick Rabiser's Homepage
 
-
 Senior Researcher, Priv.-Doz. Mag. Dr. ([Curriculum Vitae](https://github.com/RickRabiser/rickrepo/blob/master/CVRR_Web.pdf))
 
 Christian Doppler Laboratory for Monitoring and
@@ -9,7 +8,7 @@ Johannes Kepler University
 Altenberger Strasse 69
 A-4040 Linz, Austria
 
-![profile picture]({{ site.url }}/rabiser.jpg)
+![profile picture](https://github.com/RickRabiser/rickrepo/blob/master/rabiser.jpg)
 
 ### Markdown
 
