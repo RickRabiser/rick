@@ -4,7 +4,7 @@ Senior Researcher, Priv.-Doz. Mag. Dr. ([Curriculum Vitae](https://github.com/Ri
 
 Email: rick--dot--rabiser--at--jku--dot--at<br/>
 Phone: +43 732 2468 4363<br/>
-<a title="CDL MEVSS Rick Rabiser" href="http://mevss.jku.at/rabiser">My current institute homepage</a></li>
+<a title="CDL MEVSS Rick Rabiser" href="http://mevss.jku.at/rabiser">My current institute homepage</a>
 
 Office: Computer Science Building (Science Park 3), Room 216
 
