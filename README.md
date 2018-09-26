@@ -47,6 +47,20 @@ Office: Computer Science Building (Science Park 3), Room 216
  	<li><a href="https://twitter.com/EuromicroOrg">Euromicro Twitter Account</a></li>
 </ul>
 
+## Current Calls
+
+<em>As a member of the steering, organizing, program (and/or other) committees for these events I cordially invite you to submit your research to:</em>
+
+<ul>
+ 	<li><a href="http://dsd-seaa2019.csd.auth.gr/">E</a><a href="http://dsd-seaa2019.csd.auth.gr/">uromicro SEAA 2019</a>,<a href="http://dsd-seaa2019.csd.auth.gr/"> August 28-30, 2019, Thessaloniki / Chalkidiki, Greece</a></li>
+ 	<li>SPLC 2019, Sept 9-13, 2019, Paris, France</li>
+ 	<li><a href="http://se20.ocg.at/">Software Engineering 2020, February 25-28, 2020, Innsbruck, Austria</a>.</li>
+ 	<li><a href="http://confws.ist.tugraz.at/">Configuration Workshop 2018, TU Graz, September 27-28, 2018.</a></li>
+ 	<li><a href="http://software-quality-days.com/&quot;">Software Quality Days 2019, Vienna, Austria, January 15-18, 2019.</a></li>
+ 	<li><a href="https://vamos2019.github.io/">VaMoS 2019, Leuven, Belgium, February 6-8, 2019.</a></li>
+ 	<li><a href="https://www.sigapp.org/sac/sac2019/">SAC 2019, Limassol, Cyprus, April 8-12, 2019.</a></li>
+</ul>
+
 ## Services for Research Communities
 
 (only recent, please refer to my [CV](https://github.com/RickRabiser/rickrepo/blob/master/CVRR_Web.pdf) for the full list)
