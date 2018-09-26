@@ -2,7 +2,7 @@
 
 Senior Researcher, Priv.-Doz. Mag. Dr. ([Curriculum Vitae](https://github.com/RickRabiser/rickrepo/blob/master/CVRR_Web.pdf)) <img src="https://raw.githubusercontent.com/RickRabiser/rickrepo/master/assets/rabiser.jpg" alt="rrabiser" width="187" height="266" align="right"> <br/>Christian Doppler Laboratory for Monitoring and Evolution<br/>of Very-Large-Scale Software Systems<br/>Johannes Kepler University Linz<br/> Altenberger Strasse 69, A-4040 Linz, Austria 
 
-Email: rick--dot--rabiser--at--jku--dot--at]
+Email: rick--dot--rabiser--at--jku--dot--at<br/>
 Phone: +43 732 2468 4363
 
 Office: Computer Science Building (Science Park 3), Room 216
