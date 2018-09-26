@@ -4,7 +4,7 @@ Senior Researcher, Priv.-Doz. Mag. Dr. ([Curriculum Vitae](https://github.com/Ri
 
 Email: rick--dot--rabiser--at--jku--dot--at<br/>
 Phone: +43 732 2468 4363<br/>
-Institute Homepage: <a title="CDL MEVSS Rick Rabiser" href="http://mevss.jku.at/rabiser">CDL MEVSS</a></li>
+<a title="CDL MEVSS Rick Rabiser" href="http://mevss.jku.at/rabiser">My current institute homepage</a></li>
 
 Office: Computer Science Building (Science Park 3), Room 216
 
@@ -23,6 +23,10 @@ Office: Computer Science Building (Science Park 3), Room 216
  	<li>Usability and user interface design</li>
  	<li>Industry/academia collaborations</li>
 </ul>
+
+### Word Cloud of my publication titles (generated <a href="https://www.jasondavies.com/wordcloud/">here</a>):
+
+<img src="https://raw.githubusercontent.com/RickRabiser/rickrepo/master/assets/wordcloud-768x492.png" alt="word cloud" width="300" height="192" />
 
 ## Links
 
