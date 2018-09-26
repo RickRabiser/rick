@@ -50,7 +50,7 @@ Current Institute Homepage: <a title="CDL MEVSS Rick Rabiser" href="http://mevss
 
 (only recent, please refer to my CV for the full list)
 
-<em>Steering Committee Memberships</em>
+### Steering Committee Memberships
 
 <ul>
  	<li><a title="Euromicro" href="http://euromicro.org/seaa">
@@ -58,12 +58,12 @@ Current Institute Homepage: <a title="CDL MEVSS Rick Rabiser" href="http://mevss
   <li><a href="http://www.splc.net">SPLC conferences</a></li>
 </ul>
 
-<em>Program Committee Memberships</em>
+### Program Committee Memberships
 
 <a title="link" href="http://2016.software-quality-days.com/">
 SWQD 2016</a>, <a href="http://www.vamos-workshop.net">VaMoS 2016</a>, <a href="http://www.cyprusconferences.org/icsr2016/">ICSR 2016</a>, <a href="http://ksiresearchorg.ipage.com/seke/seke16.html">SEKE 2016</a>, <a href="http://cbsoft.org/cbsoft2016/sbes2016">SBES@CBSoft</a>, <a href="https://2017.software-quality-days.com/en/">SWQD 2017</a>, <a href="http://vamos2017.wordpress.com">VaMoS 2017</a>, <a href="https://resacs2017.wordpress.com/">RESACS@REFSQ 2017</a>, <a href="http://vaquita-workshop.org/vace2017/">VACE 2017</a>, <a href="http://icsr2017.ufba.br/#">ICSR 2017</a>, <a href="http://ksiresearchorg.ipage.com/seke/seke17.html">SEKE 2017</a>, <a href="http://www.splc2017.net">SPLC 2017</a>, <a href="http://www.lia.ufc.br/~cbsoft2017/xxxi-sbes/sbes-cfp/">SBES 2017</a>, <a href="http://software-quality-days.com/">SWQD 2018</a>, <a href="https://vamos2018.wordpress.com/">VaMoS 2018</a>, <a href="http://www.lirmm.fr/vspl-sac2018/">VSPL Track@SAC 2018</a>, <a href="https://icsr2018.wordpress.com/">ICSR 2018</a>, <a href="http://d3s.mff.cuni.cz/conferences/sescps2018/">SEsCPS’18@ICSE 2018</a>, <a href="http://ksiresearchorg.ipage.com/seke/seke18main.html">SEKE 2018</a>, <a href="https://resacs2018.wordpress.com">RESACS@RE 2018</a>, <a href="http://www.splc2018.net">SPLC 2018</a>, Doct Symp@<a href="http://splc2018.net/">SPLC 2018</a>, <a href="confws.ist.tugraz.at/">Configuration Workshop 2018</a>, <a href="http://cbsoft2018.icmc.usp.br/sbes.html">SBES 2018</a>, <a href="http://software-quality-days.com/&quot;">SWQD 2019</a>, <a href="https://vamos2019.github.io/">VaMoS 2019</a>, <a href="http://www.sacvsple.com/">VSPLE Track</a>@<a href="https://www.sigapp.org/sac/sac2019/">SAC 2019</a>
 
-<em>Organizing Committee Memberships</em>
+### Organizing Committee Memberships
 
 <ul>
  	<li><a title="SEAA 2014" href="http://esd.scienze.univr.it/dsd-seaa-2014/?page_id=25">Euromicro SEAA 2014</a> –- PC Chair (with Richard Torkar)</li>
@@ -83,13 +83,11 @@ SWQD 2016</a>, <a href="http://www.vamos-workshop.net">VaMoS 2016</a>, <a href="
  	<li><a href="https://www.jku.at/schule/jku-young-scientists/informatik/">JKU Young Computer Scientists</a> -- Program Manager</li>
 </ul>
 
-<hr />
-
-<em>Reviewer for Journals and Magazines</em>
+### Reviewer for Journals and Magazines
 
 <a href="http://www.journals.elsevier.com/information-and-software-technology/">Information and Software Technology (IST)</a>, <a href="http://www.journals.elsevier.com/journal-of-systems-and-software/">Journal of Systems and Software (JSS)</a>, <a href="http://link.springer.com/journal/10664">Empirical Software Engineering (EMSE)</a>, <a href="http://www.journals.elsevier.com/data-and-knowledge-engineering/">Data and Knowledge Engineering (DKE)</a>, <a href="http://www.journals.elsevier.com/science-of-computer-programming/">Science of Computer Programming (SCP)</a>, <a href="http://www.computer.org/web/tse">IEEE Transactions on Software Engineering (TSE)</a>, <a href="http://link.springer.com/journal/11219">Software Quality Journal (SQJ)</a>, <a href="http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%292047-7481;jsessionid=FD9B0B2BC706A109D78A18F4A9EA2A82.f03t03">Journal of Software: Evolution and Process</a>, <a href="http://www.sosym.org/">Software and Systems Modeling (SoSyM)</a>, <a href="http://www.computer.org/web/computingnow/software">IEEE Software</a>, <a href="http://www.computer.org/web/tsc">IEEE Transactions on Service Computing (TSC)</a>, <a href="https://www.journals.elsevier.com/computer-languages-systems-and-structures/">Computer Languages, Systems and Structures (COMLAN)</a>, <a href="http://csur.acm.org/">ACM Computing Surveys</a>
 
-<em>(Guest) Editor for Special Sections/Issues in Journals</em>
+### (Guest) Editor for Special Sections/Issues in Journals
 
 <ul>
  	<li>International Journal on Software Tools for Technology Transfer (STTT), <a href="http://dx.doi.org/10.1007/s10009-012-0253-y">Special Section on Software Diversity - Modeling, Analysis and Evolution</a>, Editors: Ina Schaefer, Rick Rabiser, Dave Clarke, Springer, 2011/2012.</li>
