@@ -4,10 +4,11 @@ Senior Researcher, Priv.-Doz. Mag. Dr. ([Curriculum Vitae](https://github.com/Ri
 
 Email: rick--dot--rabiser--at--jku--dot--at<br/>
 Phone: +43 732 2468 4363
+Institute Homepage: <a title="CDL MEVSS Rick Rabiser" href="http://mevss.jku.at/rabiser">CDL MEVSS</a></li>
 
 Office: Computer Science Building (Science Park 3), Room 216
 
-<strong>Information for Students</strong>: I have no explicit office hours, so if you need something, e.g., information on the courses I teach or about available projects, Bachelor's theses, and Master's theses, do not hesitate to contact me via e-mail at any time and we will arrange an appointment. Further information is available in <a href="http://kusss.jku.at">KUSSS</a>.
+<strong>Information for Students</strong>: I have no explicit office hours, so if you need something, e.g., information on the courses I teach or about available projects, Bachelor's theses, and Master's theses, do not hesitate to contact me via e-mail at any time and we will arrange an appointment. Information on courses is available in <a href="http://kusss.jku.at">KUSSS</a>.
 
 <hr />
 
