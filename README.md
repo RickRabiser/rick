@@ -8,9 +8,7 @@ Johannes Kepler University
 Altenberger Strasse 69
 A-4040 Linz, Austria
 
-<img align="left" width="100" height="100" src="https://github.com/RickRabiser/rickrepo/blob/master/rabiser.jpg">
-
-![profile picture](https://github.com/RickRabiser/rickrepo/blob/master/rabiser.jpg)
+<img align="left" width="207" height="266" src="https://github.com/RickRabiser/rickrepo/blob/master/rabiser.jpg">
 
 ### Markdown
 
