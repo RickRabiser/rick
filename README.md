@@ -30,8 +30,6 @@ Office: Computer Science Building (Science Park 3), Room 216
 
 ## Links
 
-Current Institute Homepage: <a title="CDL MEVSS Rick Rabiser" href="http://mevss.jku.at/rabiser">CDL MEVSS Page of Rick Rabiser</a></li>
-
 <ul>
  	<li><a title="DBLP Rick Rabiser" href="http://www.informatik.uni-trier.de/~ley/pers/hd/r/Rabiser:Rick.html">My DBLP Profile</a></li>
  	<li><a href="https://scholar.google.at/citations?user=7-AdX4sAAAAJ&amp;hl=de">My Google Scholar Profile</a></li>
