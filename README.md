@@ -110,3 +110,15 @@ SWQD 2016</a>, <a href="http://www.vamos-workshop.net">VaMoS 2016</a>, <a href="
 vol. 52(3), pp. 324-346, 2010"</li>
  	<li>Journal of Systems and Software Most Cited Article from 2010 for "Dhungana, D., Grünbacher, P., Rabiser, R., Neumayer, T.: <a href="http://dx.doi.org/10.1016/j.jss.2010.02.018">Structuring the Modeling Space and Supporting Evolution in Software Product Line Engineering</a>. The Journal of Systems and Software, 83(7), pp.1108-1122, 2010"</li>
 </ul>
+
+### Other/Misc
+
+<ul>
+ 	<li><a href="http://www.cs.utexas.edu/users/dsb/SPLC/">Member of the Most-Influential Paper Selection Committee of the Int’l Systems and Software Product Line Conference (SPLC), 2016-2019.</a></li>
+ 	<li>Elected member of the "<a href="http://www.jku.at/content/e213/e88/e15834">Fakultätsversammlung der Technisch-Naturwissenschaftlichen Fakultät an der Johannes Kepler Universität Linz</a>" (faculty congregation of the technical and natural sciences faculty at Johannes Kepler University Linz; 2016-2019).</li>
+ 	<li>Speaker of the "Mittelbau Fachbereich Informatik" (midlevel computer science academics, i.e., all computer science scholars, that are not full professors) at Johannes Kepler University Linz (Oct 2018-...)</li>
+ 	<li>Professional Member of <a href="http://www.acm.org">ACM</a></li>
+ 	<li>Member of <a href="http://euromicro.org/">Euromicro</a></li>
+ 	<li>Member of the Euromicro Board of Directors (Director for Austria)</li>
+ 	<li>Member of the Euromicro Executive Office (Publicity Secretary)</li>
+</ul>
