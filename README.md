@@ -9,7 +9,7 @@ Johannes Kepler University
 Altenberger Strasse 69
 A-4040 Linz, Austria
 
-![profile picture]({{ https://github.com/RickRabiser/rickrepo/blob/master/rabiser.jpg }})
+![profile picture]({{ site.url }}/rabiser.jpg)
 
 ### Markdown
 
