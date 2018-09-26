@@ -35,7 +35,7 @@ Office: Computer Science Building (Science Park 3), Room 216
  	<li><a href="http://researchr.org/alias/rick-rabiser">My researchr Profile</a></li>
  	<li><a href="https://www.researchgate.net/profile/Rick_Rabiser">My ResearchGate Profile</a></li>
  	<li><a href="https://www.mendeley.com/profiles/rick-rabiser/">My Mendeley Profile</a></li>
- 	<li><a style="vertical-align: top;" href="https://orcid.org/0000-0003-3862-1112" target="orcid.widget" rel="noopener noreferrer"><img style="width: 1em; margin-right: .5em;" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD icon" />orcid.org/0000-0003-3862-1112</a></li>
+ 	<li><a style="vertical-align: top;" href="https://orcid.org/0000-0003-3862-1112" target="orcid.widget" rel="noopener noreferrer">orcid.org/0000-0003-3862-1112</a></li>
  	<li><a href="http://www.researcherid.com/rid/B-8673-2017">ResearcherID</a></li>
  	<li><a href="https://www.semanticscholar.org/author/Rick-Rabiser/2140666">Semantic Scholar</a></li>
  	<li><a href="https://at.linkedin.com/pub/rick-rabiser/13/379/a14">LinkedIn </a></li>
@@ -49,7 +49,7 @@ Office: Computer Science Building (Science Park 3), Room 216
 
 ## Services for Research Communities
 
-(only recent, please refer to my CV for the full list)
+(only recent, please refer to my [CV](https://github.com/RickRabiser/rickrepo/blob/master/CVRR_Web.pdf) for the full list)
 
 ### Steering Committee Memberships
 
