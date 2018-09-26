@@ -94,3 +94,19 @@ SWQD 2016</a>, <a href="http://www.vamos-workshop.net">VaMoS 2016</a>, <a href="
  	<li>Information and Software Technology, <a href="http://dx.doi.org/10.1016/j.infsof.2015.06.005">Special Section on Software Engineering and Advanced Applications</a>, Editors: Rick Rabiser and Richard Torkar, Elsevier, 2014/2015.</li>
  	<li>Journal of Systems and Software, <a href="https://www.journals.elsevier.com/journal-of-systems-and-software/call-for-papers/special-issue-on-quality-engineering-and-management-of-softw">Special Issue on Quality Engineering and Management of Software-Intensive Systems</a>, Editors: Michael Felderer, Helena Holmström Olsson, Rick Rabiser, Elsevier, 2017/2018.</li>
 </ul>
+
+## Awards/Honorable Mentions
+
+<ul>
+ 	<li><a href="https://twitter.com/splcconf/status/1039776805639671808">Distinguished Reviewer Award (September 2018)</a> at SPLC 2018 (22nd International Systems and Software Product Line Conference, Sept 10-14, Gothenburg, Sweden).</li>
+ 	<li>Journal of Systems and Software Outstanding Reviewer Award (June 2018), i.e., within the top 10th percentile of reviewers for the Journal, in terms of the number of manuscript reviews completed 2017-2018.</li>
+ 	<li>IEEE Software Reviewer Recognition (“Certificate of Appreciation”) (May 2018)</li>
+ 	<li><a href="http://www.sosym.org/people/">Journal of Software and Systems Modeling Reviewer Recognition</a> (March 2017).</li>
+ 	<li>Information and Software Technology Outstanding Reviewer Award (December 2016), i.e., within the top 10th percentile of reviewers for the Journal, in terms of the number of manuscript reviews completed 2014-2016.</li>
+ 	<li>Journal of Systems and Software Outstanding Reviewer Award (November 2016), i.e., within the top 10th percentile of reviewers for the Journal, in terms of the number of manuscript reviews completed 2014-2016.</li>
+ 	<li>In an<a href="http://dx.doi.org/10.1016/j.infsof.2015.11.004"> article</a> analyzing 20 years of research on Software Product Lines I was recognized as one of the 15 most prolific researchers in the field. The article was published in 2016 the <a href="http://www.journals.elsevier.com/information-and-software-technology/">Information and Software Technology Journal</a>.</li>
+ 	<li><a href="http://dx.doi.org/10.1016/j.jss.2015.11.022">Best Paper Award</a> at WICSA 2014 for "Vierhauser, M., Rabiser, R., Grünbacher, P., Danner, C., Wallner, S., Zeisel, H.: <a href="http://dx.doi.org/10.1109/WICSA.2014.12">A Flexible Framework for Runtime Monitoring of System-of-Systems Architectures</a>, Proceedings of the 11th Working IEEE/IFIP Conference on Software Architecture (WICSA 2014), Sydney, Australia, April 7-11, 2014, IEEE, pp. 57-66.”</li>
+ 	<li>Information and Software Technology Most Cited Article from 2010 for "Rabiser, R., Grünbacher, P., Dhungana, D.: <a href="http://dx.doi.org/10.1016/j.infsof.2009.11.001">Requirements for Product Derivation Support: Results from a Systematic Literature Review and an Expert Survey</a>. Information and Software Technology,
+vol. 52(3), pp. 324-346, 2010"</li>
+ 	<li>Journal of Systems and Software Most Cited Article from 2010 for "Dhungana, D., Grünbacher, P., Rabiser, R., Neumayer, T.: <a href="http://dx.doi.org/10.1016/j.jss.2010.02.018">Structuring the Modeling Space and Supporting Evolution in Software Product Line Engineering</a>. The Journal of Systems and Software, 83(7), pp.1108-1122, 2010"</li>
+</ul>
