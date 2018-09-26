@@ -1,6 +1,6 @@
 ## Welcome to Rick Rabiser's Homepage
 
-![profile picture](https://github.com/RickRabiser/rickrepo/blob/master/rabiser.jpg)
+[useful image]({{ site.url }}/assets/rabiser.jpg)
 
 Senior Researcher, Priv.-Doz. Mag. Dr. ([Curriculum Vitae](https://github.com/RickRabiser/rickrepo/blob/master/CVRR_Web.pdf))
 
