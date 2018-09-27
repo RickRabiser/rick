@@ -136,5 +136,3 @@ vol. 52(3), pp. 324-346, 2010"</li>
  	<li>Member of the Euromicro Board of Directors (Director for Austria)</li>
  	<li>Member of the Euromicro Executive Office (Publicity Secretary)</li>
 </ul>
-
-### Photos
