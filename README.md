@@ -88,7 +88,7 @@ SWQD 2016</a>, <a href="http://www.vamos-workshop.net">VaMoS 2016</a>, <a href="
  	<li><a href="http://mevss.jku.at/mols2017">MoLS 2017 at ICPE 2017</a> -- OC Chair (with Michael Vierhauser, Sam Guinea, and Willi Hasselbring)</li>
  	<li><a href="http://dsd-seaa2017.ocg.at/sppi2017.html">Euromicro SEAA 2017</a> -- SPPI Track Chair (with Dietmar Winkler and Stefan Biffl)</li>
  	<li><a href="http://ssw.jku.at/manlang18/">ManLang'18</a> -- Publicity Co-Chair (with Manuel Rigger)</li>
- 	<li><a href="http://dsd-seaa2018.fit.cvut.cz/seaa/">Euromicro SEAA 2018</a> -- SPPI Track Chair (with Dietmar Winkler and Stefan Biffl) and MoLS Special Session Co-Chair (with Michael Vierhauser, Sam Guinea, and Willi Hasselbring)</li>
+ 	<li><a href="http://dsd-seaa2018.fit.cvut.cz/seaa/">Euromicro SEAA 2018</a> -- SPPI Track Chair (with Dietmar Winkler and Stefan Biffl) and MoLS Special Session Chair (with Michael Vierhauser, Sam Guinea, and Willi Hasselbring)</li>
  	<li><a href="http://splc2018.net/">SPLC 2018</a> -- Tutorials Chair (with Christoph Elsner)</li>
  	<li><a href="http://spltea.irisa.fr/">SPLTea@SPLC 2018</a> -- OC Chair (with Mathieu Acher and Roberto Lopez-Herrejon)</li>
  	<li><a href="http://dsd-seaa2019.csd.auth.gr/">Euromicro SEAA 2019</a> -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
