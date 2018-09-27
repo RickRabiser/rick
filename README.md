@@ -25,7 +25,7 @@ Office: Computer Science Building (Science Park 3), Room 216
 ### Word Cloud of my publication titles
 
 <img src="https://raw.githubusercontent.com/RickRabiser/rickrepo/master/assets/wordcloud-768x492.png" alt="word cloud" width="300" height="192" />
-<br/>(generated <a href="https://www.jasondavies.com/wordcloud/">here</a>)
+(generated <a href="https://www.jasondavies.com/wordcloud/">here</a>)
 
 ## Links
 
