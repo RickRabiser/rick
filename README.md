@@ -81,18 +81,18 @@ SWQD 2016</a>, <a href="http://www.vamos-workshop.net">VaMoS 2016</a>, <a href="
 
 <ul>
  	<li><a title="SEAA 2014" href="http://esd.scienze.univr.it/dsd-seaa-2014/?page_id=25">Euromicro SEAA 2014</a> –- PC Chair (with Richard Torkar)</li>
- 	<li><a title="SPLTea 2014" href="http://spltea.irisa.fr/">SPLTea@SPLC 2014</a> –- OC Co-Chair (with Mathieu Acher and Roberto Lopez-Herrejon)</li>
- 	<li><a title="link" href="http://euromicro.org/seaa/">Euromicro SEAA 2015</a> -- SPPI Track Co-Chair (with Stefan Biffl)</li>
- 	<li><a title="link" href="http://spltea.irisa.fr/">SPLTea@SPLC 2015</a> -– OC Co-Chair (with Mathieu Acher and Roberto Lopez-Herrejon)</li>
+ 	<li><a title="SPLTea 2014" href="http://spltea.irisa.fr/">SPLTea@SPLC 2014</a> –- OC Chair (with Mathieu Acher and Roberto Lopez-Herrejon)</li>
+ 	<li><a title="link" href="http://euromicro.org/seaa/">Euromicro SEAA 2015</a> -- SPPI Track Chair (with Stefan Biffl)</li>
+ 	<li><a title="link" href="http://spltea.irisa.fr/">SPLTea@SPLC 2015</a> -– OC Chair (with Mathieu Acher and Roberto Lopez-Herrejon)</li>
  	<li><a title="link" href="http://www.splc2016.net">SPLC 2016</a> -- Research Track PC Chair (with Bing Xie)</li>
  	<li><a href="http://mevss.jku.at/mols2017">MoLS 2017 at ICPE 2017</a> -- OC Chair (with Michael Vierhauser, Sam Guinea, and Willi Hasselbring)</li>
- 	<li><a href="http://dsd-seaa2017.ocg.at/sppi2017.html">Euromicro SEAA 2017</a> -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
+ 	<li><a href="http://dsd-seaa2017.ocg.at/sppi2017.html">Euromicro SEAA 2017</a> -- SPPI Track Chair (with Dietmar Winkler and Stefan Biffl)</li>
  	<li><a href="http://ssw.jku.at/manlang18/">ManLang'18</a> -- Publicity Co-Chair (with Manuel Rigger)</li>
- 	<li><a href="http://dsd-seaa2018.fit.cvut.cz/seaa/">Euromicro SEAA 2018</a> -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl) and MoLS Special Session Co-Chair (with Michael Vierhauser, Sam Guinea, and Willi Hasselbring)</li>
- 	<li><a href="http://splc2018.net/">SPLC 2018</a> -- Tutorials Co-Chair (with Christoph Elsner)</li>
- 	<li><a href="http://spltea.irisa.fr/">SPLTea@SPLC 2018</a> -- OC Co-Chair (with Mathieu Acher and Roberto Lopez-Herrejon)</li>
+ 	<li><a href="http://dsd-seaa2018.fit.cvut.cz/seaa/">Euromicro SEAA 2018</a> -- SPPI Track Chair (with Dietmar Winkler and Stefan Biffl) and MoLS Special Session Co-Chair (with Michael Vierhauser, Sam Guinea, and Willi Hasselbring)</li>
+ 	<li><a href="http://splc2018.net/">SPLC 2018</a> -- Tutorials Chair (with Christoph Elsner)</li>
+ 	<li><a href="http://spltea.irisa.fr/">SPLTea@SPLC 2018</a> -- OC Chair (with Mathieu Acher and Roberto Lopez-Herrejon)</li>
  	<li><a href="http://dsd-seaa2019.csd.auth.gr/">Euromicro SEAA 2019</a> -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
- 	<li>SPLC 2019 -- Demonstrations and Tools (with Leopoldo Teixeira)</li>
+ 	<li>SPLC 2019 -- Demonstrations and Tools Chair (with Leopoldo Teixeira)</li>
  	<li><a href="http://se20.ocg.at/">SE 2020</a> -- PC Chair (with Willi Hasselbring)</li>
  	<li><a href="https://www.jku.at/schule/jku-young-scientists/informatik/">JKU Young Computer Scientists</a> -- Program Manager</li>
 </ul>
@@ -136,3 +136,5 @@ vol. 52(3), pp. 324-346, 2010"</li>
  	<li>Member of the Euromicro Board of Directors (Director for Austria)</li>
  	<li>Member of the Euromicro Executive Office (Publicity Secretary)</li>
 </ul>
+
+### Photos
