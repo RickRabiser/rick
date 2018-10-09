@@ -38,6 +38,7 @@ Office: Computer Science Building (Science Park 3), Room 216
  	<li><a href="https://www.mendeley.com/profiles/rick-rabiser/">My Mendeley Profile</a></li>
  	<li><a style="vertical-align: top;" href="https://orcid.org/0000-0003-3862-1112" target="orcid.widget" rel="noopener noreferrer">orcid.org/0000-0003-3862-1112</a></li>
  	<li><a href="http://www.researcherid.com/rid/B-8673-2017">ResearcherID</a></li>
+  <li><a href="https://aminer.org/profile/rick-rabiser/53f45e83dabfaedd74e4b582">AMiner</a></li>
  	<li><a href="https://www.semanticscholar.org/author/Rick-Rabiser/2140666">Semantic Scholar</a></li>
  	<li><a href="https://at.linkedin.com/pub/rick-rabiser/13/379/a14">LinkedIn </a></li>
  	<li><a href="https://www.xing.com/profile/Rick_Rabiser?sc_o=mxb_p">Xing</a></li>
