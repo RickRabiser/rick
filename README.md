@@ -116,6 +116,7 @@ SWQD 2016</a>, <a href="http://www.vamos-workshop.net">VaMoS 2016</a>, <a href="
 ## Awards/Honorable Mentions
 
 <ul>
+ <li>JKU Work Abroad Photo Contest First Prize (October 2018) at Johannes Kepler University Linz, Austria, for the Photo “Tower of Knowledge” made inside Prague Municipal Library while attending the Euromicro SEAA 2018 conference<img src="https://raw.githubusercontent.com/RickRabiser/rickrepo/master/assets/tower.jpg" alt="tower" width="300" height="192" /></li>
  	<li><a href="https://twitter.com/splcconf/status/1039776805639671808">Distinguished Reviewer Award (September 2018)</a> at SPLC 2018 (22nd International Systems and Software Product Line Conference, Sept 10-14, Gothenburg, Sweden).</li>
  	<li>Journal of Systems and Software Outstanding Reviewer Award (June 2018), i.e., within the top 10th percentile of reviewers for the Journal, in terms of the number of manuscript reviews completed 2017-2018.</li>
  	<li>IEEE Software Reviewer Recognition (“Certificate of Appreciation”) (May 2018)</li>
@@ -139,4 +140,13 @@ vol. 52(3), pp. 324-346, 2010"</li>
  	<li>Member of <a href="http://euromicro.org/">Euromicro</a></li>
  	<li>Member of the Euromicro Board of Directors (Director for Austria)</li>
  	<li>Member of the Euromicro Executive Office (Publicity Secretary)</li>
+</ul>
+
+### Personal Interests/Hobbies
+
+<ul>
+ <li>Running</li>
+ <li>Hiking</li>
+ <li>Traveling</li>
+ <li>Photography</li>
 </ul>
