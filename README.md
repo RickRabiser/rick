@@ -22,6 +22,7 @@ Office: Computer Science Building (Science Park 3), Room 216
  	<li>Requirements Monitoring</li>
  	<li>Usability and User Interface Design</li>
  	<li>Industry/Academia Collaborations</li>
+  <li>Cyber-physical Systems</li>
 </ul>
 
 ## Expertise
