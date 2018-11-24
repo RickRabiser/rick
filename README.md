@@ -15,13 +15,13 @@ Office: Computer Science Building (Science Park 3), Room 216
 ## Research Interests
 
 <ul>
- 	<li>Variability management and software product lines</li>
- 	<li>Software maintenance and evolution</li>
- 	<li>Automated software engineering</li>
- 	<li>Requirements engineering</li>
- 	<li>Requirements monitoring</li>
- 	<li>Usability and user interface design</li>
- 	<li>Industry/academia collaborations</li>
+ 	<li>Variability Management and Systems and Software Product Lines</li>
+ 	<li>Software Maintenance and Evolution</li>
+ 	<li>Automated Software Engineering</li>
+ 	<li>Requirements Engineering</li>
+ 	<li>Requirements Monitoring</li>
+ 	<li>Usability and User Interface Design</li>
+ 	<li>Industry/Academia Collaborations</li>
 </ul>
 
 ## Expertise
