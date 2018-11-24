@@ -24,6 +24,19 @@ Office: Computer Science Building (Science Park 3), Room 216
  	<li>Industry/academia collaborations</li>
 </ul>
 
+## Expertise
+
+<ul>
+ 	<li>Systems and Software Product Lines</li>
+ 	<li>Variability Modeling and Management</li>
+ 	<li>(User-Centered) Product Derivation</li>
+ 	<li>(Systematic) Literature Studies and Surveys</li>
+ 	<li>Usability Studies/User Studies</li>
+ 	<li>Industry-Academia Collaboration</li>
+ 	<li>Monitoring of Software(-intensive) Systems</li>
+ 	<li>Domain-Specific Languages</li>
+</ul>
+
 ### Word Cloud of my publication titles
 
 <img src="https://raw.githubusercontent.com/RickRabiser/rickrepo/master/assets/wordcloud-768x492.png" alt="word cloud" width="300" height="192" />
