@@ -73,8 +73,11 @@ Office: Computer Science Building (Science Park 3), Room 216
  	<li><a href="http://software-quality-days.com/&quot;">Software Quality Days 2019, Vienna, Austria, January 15-18, 2019.</a></li>
  	<li><a href="https://vamos2019.github.io/">VaMoS 2019, Leuven, Belgium, February 6-8, 2019.</a></li>
  	<li><a href="https://www.sigapp.org/sac/sac2019/">SAC 2019, Limassol, Cyprus, April 8-12, 2019.</a></li>
+ <li><a href="http://d3s.mff.cuni.cz/conferences/sescps2019/">SEsCPS 2019, in conunction with ICSE 2019, Montreal, Canada, May 25-31, 2019.</a></li>
+ <li><a href="http://ksiresearchorg.ipage.com/seke/seke19.html">SEKE 2019, Lisbon, Portugal, July 10-12, 2019.</a></li>
   <li><a href="http://dsd-seaa2019.csd.auth.gr/">E</a><a href="http://dsd-seaa2019.csd.auth.gr/">uromicro SEAA 2019</a>,<a href="http://dsd-seaa2019.csd.auth.gr/"> August 28-30, 2019, Thessaloniki / Chalkidiki, Greece</a></li>
   <li><a href="http://splc2019.net/">SPLC 2019, Sept 9-13, 2019, Paris, France</a></li>
+ <li><a href="https://confws19.hitec-hamburg.de/">Workshop on Configuration 2019, Hamburg, Germany, Sept 19-20, 2019.</a></li>
   	<li><a href="http://se20.ocg.at/">Software Engineering 2020, February 25-28, 2020, Innsbruck, Austria</a>.</li>
 </ul>
 
