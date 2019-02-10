@@ -67,7 +67,7 @@ Office: Computer Science Building (Science Park 3), Room 216
 
 ## Current Calls
 
-<em>As a member of the steering, organizing, program (and/or other) committees for these events I cordially invite you to submit your research to:</em>
+<em>As a member of the steering, organizing, program (and/or other) committees for these events I cordially invite you to submit your research to: </em>
 
 <ul>
  	<li><a href="https://www.sigapp.org/sac/sac2019/">SAC 2019, Limassol, Cyprus, April 8-12, 2019.</a></li>
