@@ -86,7 +86,7 @@ Office: Computer Science Building (Science Park 3), Room 216
 ### Steering Committee Memberships
 
 <ul>
- 	<li><a title="Euromicro" href="http://euromicro.org/seaa">
+ 	<li><a title="Euromicro" href="http://www.euromicro.org/cms/index.php/technical-committees/seaa-steering-committee">
    Euromicro SEAA conferences</a></li>
   <li><a href="http://www.splc.net">SPLC conferences</a></li>
 </ul>
