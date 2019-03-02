@@ -130,6 +130,7 @@ SWQD 2016</a>, <a href="http://www.vamos-workshop.net">VaMoS 2016</a>, <a href="
 ## Awards/Honorable Mentions
 
 <ul>
+ <li><a href="https://doi.org/10.1002/spe.2691">Journal of Software Practice and Experience Distinguished Referee 2018</a> ("These referees gave outstanding service to the journal based on the criteria of quality, timeliness, and volume of reviews.")</li>
  <li>JKU Work Abroad Photo Contest First Prize (October 2018) at Johannes Kepler University Linz, Austria, for the Photo “Tower of Knowledge” made inside Prague Municipal Library while attending the Euromicro SEAA 2018 conference</li>
  <br/>
  <img src="https://raw.githubusercontent.com/RickRabiser/rickrepo/master/assets/tower.jpg" alt="tower" width="300" height="192" />
