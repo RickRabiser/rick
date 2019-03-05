@@ -71,8 +71,10 @@ Office: Computer Science Building (Science Park 3), Room 216
 
 <ul>
   <li><a href="http://ksiresearchorg.ipage.com/seke/seke19.html">SEKE 2019, Lisbon, Portugal, July 10-12, 2019.</a></li>
-  <li><a href="http://dsd-seaa2019.csd.auth.gr/">E</a><a href="http://dsd-seaa2019.csd.auth.gr/">uromicro SEAA 2019</a>,<a href="http://dsd-seaa2019.csd.auth.gr/"> August 28-30, 2019, Thessaloniki / Chalkidiki, Greece</a></li>
+  <li><a href="http://dsd-seaa2019.csd.auth.gr/">Euromicro SEAA 2019, August 28-30, 2019, Thessaloniki / Chalkidiki, Greece</a></li>
   <li><a href="http://splc2019.net/">SPLC 2019, Sept 9-13, 2019, Paris, France</a></li>
+ <li><a href="http://spltea.irisa.fr/">SPLTea 2019 (Workshop@SPLC 2019), Sept 9/10, 2019, Paris, France</a></li>
+ <li>MODEVAR 2019 (Workshop@SPLC 2019), Sept 9/10, 2019, Paris, France</li>
  <li><a href="https://confws19.hitec-hamburg.de/">Workshop on Configuration 2019, Hamburg, Germany, Sept 19-20, 2019.</a></li>
  <li><a href="http://cbsoft2019.ufba.br/#/sbesresearchtrack">SBES@CBSOFT 2019, Salvador, Brazil, Sept 23-27, 2019.</a></li>
   	<li><a href="http://se20.ocg.at/">Software Engineering 2020, February 25-28, 2020, Innsbruck, Austria</a>.</li>
@@ -111,6 +113,8 @@ SWQD 2016</a>, <a href="http://www.vamos-workshop.net">VaMoS 2016</a>, <a href="
  	<li><a href="http://spltea.irisa.fr/">SPLTea@SPLC 2018</a> -- OC Chair (with Mathieu Acher and Roberto Lopez-Herrejon)</li>
  	<li><a href="http://dsd-seaa2019.csd.auth.gr/">Euromicro SEAA 2019</a> -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
  	<li><a href="https://splc2019.net/call-for-papers/call-for-data-demonstrations-and-tools/">SPLC 2019 -- Demonstrations and Tools</a> Chair (with Leopoldo Teixeira)</li>
+ <li><a href="http://spltea.irisa.fr/">SPLTea 2019 (Workshop@SPLC 2019) OC</a></li>
+ <li>MODEVAR 2019 (Workshop@SPLC 2019), OC</li>
  	<li><a href="http://se20.ocg.at/">SE 2020</a> -- PC Chair (with Willi Hasselbring)</li>
  	<li><a href="https://www.jku.at/schule/jku-young-scientists/informatik/">JKU Young Computer Scientists</a> -- Program Manager</li>
 </ul>
