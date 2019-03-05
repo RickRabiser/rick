@@ -113,8 +113,8 @@ SWQD 2016</a>, <a href="http://www.vamos-workshop.net">VaMoS 2016</a>, <a href="
  	<li><a href="http://spltea.irisa.fr/">SPLTea@SPLC 2018</a> -- OC Chair (with Mathieu Acher and Roberto Lopez-Herrejon)</li>
  	<li><a href="http://dsd-seaa2019.csd.auth.gr/">Euromicro SEAA 2019</a> -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
  	<li><a href="https://splc2019.net/call-for-papers/call-for-data-demonstrations-and-tools/">SPLC 2019 -- Demonstrations and Tools</a> Chair (with Leopoldo Teixeira)</li>
- <li><a href="http://spltea.irisa.fr/">SPLTea 2019 (Workshop@SPLC 2019) OC</a></li>
- <li>MODEVAR 2019 (Workshop@SPLC 2019), OC</li>
+ <li><a href="http://spltea.irisa.fr/">SPLTea 2019 (Workshop@SPLC 2019) -- OC Co-Chair</a></li>
+ <li>MODEVAR 2019 (Workshop@SPLC 2019), OC Co-Chair</li>
  	<li><a href="http://se20.ocg.at/">SE 2020</a> -- PC Chair (with Willi Hasselbring)</li>
  	<li><a href="https://www.jku.at/schule/jku-young-scientists/informatik/">JKU Young Computer Scientists</a> -- Program Manager</li>
 </ul>
