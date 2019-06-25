@@ -70,8 +70,6 @@ Office: Computer Science Building (Science Park 3), Room 216
 <em>As a member of the steering, organizing, program (and/or other) committees for these events I cordially invite you to submit your research to: </em>
 
 <ul>
- <li><a href="https://confws19.hitec-hamburg.de/">Workshop on Configuration 2019, Hamburg, Germany, Sept 19-20, 2019.</a></li>
- <li><a href="http://cbsoft2019.ufba.br/#/sbesresearchtrack">SBES@CBSOFT 2019, Salvador, Brazil, Sept 23-27, 2019.</a></li>
  <li><a href="https://www.software-quality-days.com/">Software Quality Days 2020, January 14-17, 2020, Vienna, Austria</a>.</li>
  <li><a href="http://se20.ocg.at/">Software Engineering 2020, February 25-28, 2020, Innsbruck, Austria</a>.</li>
 </ul>
