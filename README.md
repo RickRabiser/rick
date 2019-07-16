@@ -8,6 +8,8 @@ Phone: +43 732 2468 4363<br/>
 
 Office: Computer Science Building (Science Park 3), Room 216
 
+<a href="https://twitter.com/RickRabiser" alt="Twitter"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png"></a> <a href="https://www.linkedin.com/in/rick-rabiser-a1437913/" alt="Linkedin"><img src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
+
 <strong>Information for Students</strong>: I have no explicit office hours, so if you need something, e.g., information on the courses I teach or about available projects, Bachelor's theses, and Master's theses, do not hesitate to contact me via e-mail at any time and we will arrange an appointment. Information on courses is available in <a href="http://kusss.jku.at">KUSSS</a>.
 
 <img src="https://raw.githubusercontent.com/RickRabiser/rick/master/assets/sp3.jpg" alt="science park 3" width="645" height="365" />
