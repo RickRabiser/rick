@@ -73,7 +73,7 @@ Office: Computer Science Building (Science Park 3), Room 216
 
 <ul>
  <li><a href="https://www.software-quality-days.com/">Software Quality Days 2020, January 14-17, 2020, Vienna, Austria</a>.</li>
- <li><a href="https://vamos2020.dbse.iti.cs.ovgu.de/">VaMoS 2020, Feb 5-7, 2020, Magdeburg, Germany</a>.</li>
+ <li><a href="https://vamos2020.dbse.iti.cs.ovgu.de/">VaMoS 2020, February 5-7, 2020, Magdeburg, Germany</a>.</li>
  <li><a href="http://se20.ocg.at/">Software Engineering 2020, February 25-28, 2020, Innsbruck, Austria</a>.</li>
 </ul>
 
