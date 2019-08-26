@@ -146,6 +146,7 @@ vol. 52(3), pp. 324-346, 2010"</li>
  <br/>
  <img src="https://raw.githubusercontent.com/RickRabiser/rickrepo/master/assets/tower.jpg" alt="tower" width="300" height="192" />
   <li><a href="https://doi.org/10.1002/spe.2691">Journal of Software Practice and Experience Distinguished Referee 2018</a> ("These referees gave outstanding service to the journal based on the criteria of quality, timeliness, and volume of reviews.")</li>
+ <li>Outstanding Reviewer Award at SBES 2019 (Brazilian Symposium on Software Engineering, Sept 23-27, 2019, Salvador, Bahia, Brazil): “awarded to reviewers who submitted outstanding quality reviews to SBES”.</li>
 </ul>
 
 ### Other/Misc
