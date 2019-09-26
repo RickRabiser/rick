@@ -152,7 +152,7 @@ vol. 52(3), pp. 324-346, 2010"</li>
 ### Other/Misc
 
 <ul>
- 	<li><a href="http://www.cs.utexas.edu/users/dsb/SPLC/">Member of the Most-Influential Paper Selection Committee of the Int’l Systems and Software Product Line Conference (SPLC), 2016-2019.</a></li>
+ 	<li><a href="http://www.cs.utexas.edu/users/dsb/SPLC/">Member of the Most-Influential Paper Selection Committee of the Int’l Systems and Software Product Line Conference (SPLC), 2016-2020.</a></li>
  	<li>Elected member of the "<a href="http://www.jku.at/content/e213/e88/e15834">Fakultätsversammlung der Technisch-Naturwissenschaftlichen Fakultät an der Johannes Kepler Universität Linz</a>" (faculty congregation of the technical and natural sciences faculty at Johannes Kepler University Linz; 2016-2019).</li>
  	<li>Speaker of the "Mittelbau Fachbereich Informatik" (midlevel computer science academics, i.e., all computer science scholars, that are not full professors) at Johannes Kepler University Linz (Oct 2018-...)</li>
  	<li>Professional Member of <a href="http://www.acm.org">ACM</a></li>
