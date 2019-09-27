@@ -38,6 +38,7 @@ Office: Computer Science Building (Science Park 3), Room 216
  	<li>Industry-Academia Collaboration</li>
  	<li>Monitoring of Software(-intensive) Systems</li>
  	<li>Domain-Specific Languages</li>
+  <li>Cyber-Physical Systems</li>
 </ul>
 
 ### Word Cloud of my publication titles
@@ -75,6 +76,8 @@ Office: Computer Science Building (Science Park 3), Room 216
  <li><a href="https://www.software-quality-days.com/">Software Quality Days 2020, January 14-17, 2020, Vienna, Austria</a>.</li>
  <li><a href="https://vamos2020.dbse.iti.cs.ovgu.de/">VaMoS 2020, February 5-7, 2020, Magdeburg, Germany</a>.</li>
  <li><a href="http://se20.ocg.at/">Software Engineering 2020, February 25-28, 2020, Innsbruck, Austria</a>.</li>
+ <li>Euromicro SEAA/DSD 2020, August 26-28, 2020, Portoroz, Slovenia.</li>
+ <li><a href="http://www.splc2020.net">SPLC 2020, October 19-24, 2020, Montreal, Canada</a>.</li>
 </ul>
 
 ## Services for Research Communities
@@ -92,7 +95,7 @@ Office: Computer Science Building (Science Park 3), Room 216
 ### Program Committee Memberships
 
 <a title="link" href="http://2016.software-quality-days.com/">
-SWQD 2016</a>, <a href="http://www.vamos-workshop.net">VaMoS 2016</a>, <a href="http://www.cyprusconferences.org/icsr2016/">ICSR 2016</a>, <a href="http://ksiresearchorg.ipage.com/seke/seke16.html">SEKE 2016</a>, <a href="http://cbsoft.org/cbsoft2016/sbes2016">SBES@CBSoft</a>, <a href="https://2017.software-quality-days.com/en/">SWQD 2017</a>, <a href="http://vamos2017.wordpress.com">VaMoS 2017</a>, <a href="https://resacs2017.wordpress.com/">RESACS@REFSQ 2017</a>, <a href="http://vaquita-workshop.org/vace2017/">VACE 2017</a>, <a href="http://icsr2017.ufba.br/#">ICSR 2017</a>, <a href="http://ksiresearchorg.ipage.com/seke/seke17.html">SEKE 2017</a>, <a href="http://www.splc2017.net">SPLC 2017</a>, <a href="http://www.lia.ufc.br/~cbsoft2017/xxxi-sbes/sbes-cfp/">SBES 2017</a>, <a href="http://software-quality-days.com/">SWQD 2018</a>, <a href="https://vamos2018.wordpress.com/">VaMoS 2018</a>, <a href="http://www.lirmm.fr/vspl-sac2018/">VSPL Track@SAC 2018</a>, <a href="https://icsr2018.wordpress.com/">ICSR 2018</a>, <a href="http://d3s.mff.cuni.cz/conferences/sescps2018/">SEsCPS’18@ICSE 2018</a>, <a href="http://ksiresearchorg.ipage.com/seke/seke18main.html">SEKE 2018</a>, <a href="https://resacs2018.wordpress.com">RESACS@RE 2018</a>, <a href="http://www.splc2018.net">SPLC 2018</a>, Doct Symp@<a href="http://splc2018.net/">SPLC 2018</a>, <a href="confws.ist.tugraz.at/">Configuration Workshop 2018</a>, <a href="http://cbsoft2018.icmc.usp.br/sbes.html">SBES 2018</a>, <a href="http://software-quality-days.com/&quot;">SWQD 2019</a>, <a href="https://vamos2019.github.io/">VaMoS 2019</a>, <a href="http://www.sacvsple.com/">VSPLE Track</a>@<a href="https://www.sigapp.org/sac/sac2019/">SAC 2019</a>, <a href="http://d3s.mff.cuni.cz/conferences/sescps2019/">SEsCPS@ICSE 2019</a>, <a href="http://ksiresearchorg.ipage.com/seke/seke19.html">SEKE 2019</a>, <a href="http://splc2019.net">SPLC 2019</a>, <a href="https://modevar.github.io/">MODEVAR@SPLC 2019</a>, <a href="http://tintotic.com/weesr2019/">WEESR@SPLC 2019</a>, <a href="http://events.disim.univaq.it/SASI4/">SASI4@ECSA 2019</a>, <a href="https://confws19.hitec-hamburg.de/">Workshop on Configuration 2019</a>, <a href="http://cbsoft2019.ufba.br/#/sbesresearchtrack">SBES@CBSOFT 2019</a>, <a href="https://www.software-quality-days.com/">Software Quality Days 2020</a>, <a href="https://vamos2020.dbse.iti.cs.ovgu.de/">VaMoS 2020</a>
+SWQD 2016</a>, <a href="http://www.vamos-workshop.net">VaMoS 2016</a>, <a href="http://www.cyprusconferences.org/icsr2016/">ICSR 2016</a>, <a href="http://ksiresearchorg.ipage.com/seke/seke16.html">SEKE 2016</a>, <a href="http://cbsoft.org/cbsoft2016/sbes2016">SBES@CBSoft</a>, <a href="https://2017.software-quality-days.com/en/">SWQD 2017</a>, <a href="http://vamos2017.wordpress.com">VaMoS 2017</a>, <a href="https://resacs2017.wordpress.com/">RESACS@REFSQ 2017</a>, <a href="http://vaquita-workshop.org/vace2017/">VACE 2017</a>, <a href="http://icsr2017.ufba.br/#">ICSR 2017</a>, <a href="http://ksiresearchorg.ipage.com/seke/seke17.html">SEKE 2017</a>, <a href="http://www.splc2017.net">SPLC 2017</a>, <a href="http://www.lia.ufc.br/~cbsoft2017/xxxi-sbes/sbes-cfp/">SBES 2017</a>, <a href="http://software-quality-days.com/">SWQD 2018</a>, <a href="https://vamos2018.wordpress.com/">VaMoS 2018</a>, <a href="http://www.lirmm.fr/vspl-sac2018/">VSPL Track@SAC 2018</a>, <a href="https://icsr2018.wordpress.com/">ICSR 2018</a>, <a href="http://d3s.mff.cuni.cz/conferences/sescps2018/">SEsCPS’18@ICSE 2018</a>, <a href="http://ksiresearchorg.ipage.com/seke/seke18main.html">SEKE 2018</a>, <a href="https://resacs2018.wordpress.com">RESACS@RE 2018</a>, <a href="http://www.splc2018.net">SPLC 2018</a>, Doct Symp@<a href="http://splc2018.net/">SPLC 2018</a>, <a href="confws.ist.tugraz.at/">Configuration Workshop 2018</a>, <a href="http://cbsoft2018.icmc.usp.br/sbes.html">SBES 2018</a>, <a href="http://software-quality-days.com/&quot;">SWQD 2019</a>, <a href="https://vamos2019.github.io/">VaMoS 2019</a>, <a href="http://www.sacvsple.com/">VSPLE Track</a>@<a href="https://www.sigapp.org/sac/sac2019/">SAC 2019</a>, <a href="http://d3s.mff.cuni.cz/conferences/sescps2019/">SEsCPS@ICSE 2019</a>, <a href="http://ksiresearchorg.ipage.com/seke/seke19.html">SEKE 2019</a>, <a href="http://splc2019.net">SPLC 2019</a>, <a href="https://modevar.github.io/">MODEVAR@SPLC 2019</a>, <a href="http://tintotic.com/weesr2019/">WEESR@SPLC 2019</a>, <a href="http://events.disim.univaq.it/SASI4/">SASI4@ECSA 2019</a>, <a href="https://confws19.hitec-hamburg.de/">Workshop on Configuration 2019</a>, <a href="http://cbsoft2019.ufba.br/#/sbesresearchtrack">SBES@CBSOFT 2019</a>, <a href="https://www.software-quality-days.com/">Software Quality Days 2020</a>, <a href="https://vamos2020.dbse.iti.cs.ovgu.de/">VaMoS 2020</a>, <a href="http://www.splc2020.net/">SPLC 2020 Doctoral Symposium</a>
 
 ### Organizing Committee Memberships
 
@@ -113,6 +116,7 @@ SWQD 2016</a>, <a href="http://www.vamos-workshop.net">VaMoS 2016</a>, <a href="
  <li><a href="http://spltea.irisa.fr/">SPLTea 2019 (Workshop@SPLC 2019) -- OC Co-Chair</a></li>
  <li><a href="https://modevar.github.io/">MODEVAR 2019 (Workshop@SPLC 2019), OC Co-Chair</a></li>
  	<li><a href="http://se20.ocg.at/">SE 2020</a> -- PC Chair (with Willi Hasselbring)</li>
+ <li>Euromicro SEAA 2020 -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
  	<li><a href="https://www.jku.at/schule/jku-young-scientists/informatik/">JKU Young Computer Scientists</a> -- Program Manager</li>
 </ul>
 
@@ -153,8 +157,7 @@ vol. 52(3), pp. 324-346, 2010"</li>
 
 <ul>
  	<li><a href="http://www.cs.utexas.edu/users/dsb/SPLC/">Member of the Most-Influential Paper Selection Committee of the Int’l Systems and Software Product Line Conference (SPLC), 2016-2020.</a></li>
- 	<li>Elected member of the "<a href="http://www.jku.at/content/e213/e88/e15834">Fakultätsversammlung der Technisch-Naturwissenschaftlichen Fakultät an der Johannes Kepler Universität Linz</a>" (faculty congregation of the technical and natural sciences faculty at Johannes Kepler University Linz; 2016-2019).</li>
- 	<li>Speaker of the "Mittelbau Fachbereich Informatik" (midlevel computer science academics, i.e., all computer science scholars, that are not full professors) at Johannes Kepler University Linz (Oct 2018-...)</li>
+ 	<li>Speaker of the "Mittelbau Fachbereich Informatik" (midlevel computer science academics, i.e., all computer science scholars, that are not full professors) at Johannes Kepler University Linz (Oct 2018-Oct 2019)</li>
  	<li>Professional Member of <a href="http://www.acm.org">ACM</a></li>
  	<li>Member of <a href="http://euromicro.org/">Euromicro</a></li>
  	<li>Member of the Euromicro Board of Directors (Director for Austria)</li>
