@@ -1,18 +1,17 @@
 ## Welcome to Rick Rabiser's Homepage
 
-Senior Researcher, Priv.-Doz. Mag. Dr. ([Curriculum Vitae](https://github.com/RickRabiser/rick/raw/master/assets/CVRR_Web.pdf)) <img src="https://raw.githubusercontent.com/RickRabiser/rickrepo/master/assets/rabiser.jpg" alt="rrabiser" width="187" height="266" align="right"> <br/>Christian Doppler Laboratory for Monitoring and Evolution<br/>of Very-Large-Scale Software Systems<br/>Johannes Kepler University Linz<br/> Altenberger Strasse 69, A-4040 Linz, Austria 
+Univ.-Prof. Mag. Dr. ([Curriculum Vitae](https://github.com/RickRabiser/rick/raw/master/assets/CVRR_Web.pdf)) <img src="https://raw.githubusercontent.com/RickRabiser/rickrepo/master/assets/rabiser.jpg" alt="rrabiser" width="187" height="266" align="right"> <br/>Full professor for Software Engineering in Cyber-Physical Systems at the Linz Institute of Technology CPS Lab at Johannes Kepler University Linz, Austria.<br/> Altenberger Strasse 69, A-4040 Linz, Austria 
 
 Email: rick--dot--rabiser--at--jku--dot--at<br/>
 Phone: +43 732 2468 4363<br/>
-<a title="CDL MEVSS Rick Rabiser" href="http://mevss.jku.at/rabiser">My current institute homepage</a>
+<a title="LIT" href="https://www.jku.at/en/linz-institute-of-technology/">Linz Institute of Technology</a>
+<a title="LIT CPS Lab" href="https://www.jku.at/en/linz-institute-of-technology/research/research-labs/cyber-physical-systems-lab/">LIT Cyber-Physical Systems Lab</a>
 
-Office: Computer Science Building (Science Park 3), Room 216
+Office: LIT Open Innovation Center (first floor)
 
 <a href="https://twitter.com/RickRabiser" alt="Twitter"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png"></a> <a href="https://www.linkedin.com/in/rick-rabiser-a1437913/" alt="Linkedin"><img src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
 
 <strong>Information for Students</strong>: I have no explicit office hours, so if you need something, e.g., information on the courses I teach or about available projects, Bachelor's theses, and Master's theses, do not hesitate to contact me via e-mail at any time and we will arrange an appointment. Information on courses is available in <a href="http://kusss.jku.at">KUSSS</a>.
-
-<img src="https://raw.githubusercontent.com/RickRabiser/rick/master/assets/sp3.jpg" alt="science park 3" width="645" height="365" />
 
 ## Research Interests
 
@@ -76,7 +75,7 @@ Office: Computer Science Building (Science Park 3), Room 216
  <li><a href="https://www.software-quality-days.com/">Software Quality Days 2020, January 14-17, 2020, Vienna, Austria</a>.</li>
  <li><a href="https://vamos2020.dbse.iti.cs.ovgu.de/">VaMoS 2020, February 5-7, 2020, Magdeburg, Germany</a>.</li>
  <li><a href="http://se20.ocg.at/">Software Engineering 2020, February 25-28, 2020, Innsbruck, Austria</a>.</li>
- <li>Euromicro SEAA/DSD 2020, August 26-28, 2020, Portoroz, Slovenia.</li>
+ <li><a href="https://dsd-seaa2020.um.si/">Euromicro SEAA/DSD 2020, August 26-28, 2020, Portoroz, Slovenia</a>.</li>
  <li><a href="http://www.splc2020.net">SPLC 2020, October 19-24, 2020, Montreal, Canada</a>.</li>
 </ul>
 
@@ -116,7 +115,7 @@ SWQD 2016</a>, <a href="http://www.vamos-workshop.net">VaMoS 2016</a>, <a href="
  <li><a href="http://spltea.irisa.fr/">SPLTea 2019 (Workshop@SPLC 2019) -- OC Co-Chair</a></li>
  <li><a href="https://modevar.github.io/">MODEVAR 2019 (Workshop@SPLC 2019), OC Co-Chair</a></li>
  	<li><a href="http://se20.ocg.at/">SE 2020</a> -- PC Chair (with Willi Hasselbring)</li>
- <li>Euromicro SEAA 2020 -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
+ <li><a href="https://dsd-seaa2020.um.si/">Euromicro SEAA 2020</a> -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
  	<li><a href="https://www.jku.at/schule/jku-young-scientists/informatik/">JKU Young Computer Scientists</a> -- Program Manager</li>
 </ul>
 
@@ -157,7 +156,6 @@ vol. 52(3), pp. 324-346, 2010"</li>
 
 <ul>
  	<li><a href="http://www.cs.utexas.edu/users/dsb/SPLC/">Member of the Most-Influential Paper Selection Committee of the Int’l Systems and Software Product Line Conference (SPLC), 2016-2020.</a></li>
- 	<li>Speaker of the "Mittelbau Fachbereich Informatik" (midlevel computer science academics, i.e., all computer science scholars, that are not full professors) at Johannes Kepler University Linz (Oct 2018-Oct 2019)</li>
  	<li>Professional Member of <a href="http://www.acm.org">ACM</a></li>
  	<li>Member of <a href="http://euromicro.org/">Euromicro</a></li>
  	<li>Member of the Euromicro Board of Directors (Director for Austria)</li>
