@@ -4,8 +4,8 @@ Univ.-Prof. Mag. Dr. ([Curriculum Vitae](https://github.com/RickRabiser/rick/raw
 
 Email: rick--dot--rabiser--at--jku--dot--at<br/>
 Phone: +43 732 2468 4363<br/>
-<a title="LIT" href="https://www.jku.at/en/linz-institute-of-technology/">Linz Institute of Technology</a>
-<a title="LIT CPS Lab" href="https://www.jku.at/en/linz-institute-of-technology/research/research-labs/cyber-physical-systems-lab/">LIT Cyber-Physical Systems Lab</a>
+<a title="LIT" href="https://www.jku.at/en/linz-institute-of-technology/">Linz Institute of Technology,</a>
+<a title="LIT CPS Lab" href="https://www.jku.at/en/linz-institute-of-technology/research/research-labs/cyber-physical-systems-lab/">Cyber-Physical Systems Lab</a>
 
 Office: LIT Open Innovation Center (first floor)
 
