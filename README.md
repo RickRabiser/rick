@@ -48,7 +48,7 @@ Institute Homepage: <a href="https://www.jku.at/en/linz-institute-of-technology/
 <ul>
  	<li><a title="DBLP Rick Rabiser" href="http://www.informatik.uni-trier.de/~ley/pers/hd/r/Rabiser:Rick.html">My DBLP Profile</a></li>
  	<li><a href="https://scholar.google.at/citations?user=7-AdX4sAAAAJ&amp;hl=de">My Google Scholar Profile</a></li>
- 	<li><a href="https://academic.microsoft.com/profile/465f8jeg-ei1g-4ff2-e193-j0j2gg141792/RickRabiser/">My Microsoft Academic Profile</a></li>
+ 	<li><a href="https://academic.microsoft.com/author/2251273329/publication">My Microsoft Academic Profile</a></li>
  	<li><a href="http://researchr.org/alias/rick-rabiser">My researchr Profile</a></li>
  	<li><a href="https://www.researchgate.net/profile/Rick_Rabiser">My ResearchGate Profile</a></li>
  	<li><a href="https://www.mendeley.com/profiles/rick-rabiser/">My Mendeley Profile</a></li>
