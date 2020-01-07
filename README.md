@@ -149,6 +149,7 @@ vol. 52(3), pp. 324-346, 2010"</li>
   <li><a href="https://doi.org/10.1002/spe.2691">Journal of Software Practice and Experience Distinguished Referee 2018</a> ("These referees gave outstanding service to the journal based on the criteria of quality, timeliness, and volume of reviews.")</li>
  <li>Outstanding Reviewer Award at SBES 2019 (Brazilian Symposium on Software Engineering, Sept 23-27, 2019, Salvador, Bahia, Brazil): “awarded to reviewers who submitted outstanding quality reviews to SBES”.</li>
  <li>Listed as one of the key researchers in Austrian computer science in the 2019 CWTS Bibliometric Report "Bibliometric analysis of the Austrian computer science research (2000-2017)" (<a href="www.wissenschaftsrat.ac.at">www.wissenschaftsrat.ac.at</a>).</li>
+ 	<li><a href="http://www.sosym.org/people/">Journal of Software and Systems Modeling Reviewer Recognition</a> (Jan 2019).</li>
 </ul>
 
 ### Other/Misc
