@@ -150,6 +150,7 @@ vol. 52(3), pp. 324-346, 2010"</li>
  <li>Listed as one of the key researchers in Austrian computer science in the 2019 CWTS Bibliometric Report "Bibliometric analysis of the Austrian computer science research (2000-2017)" (<a href="www.wissenschaftsrat.ac.at">www.wissenschaftsrat.ac.at</a>).</li>
  	<li><a href="http://www.sosym.org/people/">Journal of Software and Systems Modeling Reviewer Recognition</a> (Jan 2019).</li>
  <li>Empirical Software Engineering Journal Reviewer Recognition for 2019 (Jan 2020)</li>
+ <li>Journal of Software: Evolution and Process Reviewer Recognition for 2019 (Feb 2020)</li>
 </ul>
 
 ### Other/Misc
