@@ -1,6 +1,6 @@
 ## Welcome to Rick Rabiser's Homepage
 
-Univ.-Prof. Mag. Dr. ([Curriculum Vitae](https://github.com/RickRabiser/rick/raw/master/assets/CVRR_Web.pdf)) <img src="https://raw.githubusercontent.com/RickRabiser/rickrepo/master/assets/rabiser.jpg" alt="rrabiser" width="187" height="266" align="right"> <br/>Professor for Software Engineering in Cyber-Physical Systems, <br/><a title="LIT" href="https://www.jku.at/en/linz-institute-of-technology/">Linz Institute of Technology,</a> <a title="LIT CPS Lab" href="https://www.jku.at/en/linz-institute-of-technology/research/research-labs/cyber-physical-systems-lab/">Cyber-Physical Systems Lab</a>, <br/>Johannes Kepler University Linz, Austria.<br/> Altenberger Strasse 69, A-4040 Linz, Austria 
+Univ.-Prof. Mag. Dr. ([Curriculum Vitae](https://github.com/RickRabiser/rick/raw/master/assets/CVRR_Web.pdf)) <img src="https://raw.githubusercontent.com/RickRabiser/rickrepo/master/assets/RickRabiserSmall.jpg" alt="rrabiser" width="187" height="266" align="right"> <br/>Professor for Software Engineering in Cyber-Physical Systems, <br/><a title="LIT" href="https://www.jku.at/en/linz-institute-of-technology/">Linz Institute of Technology,</a> <a title="LIT CPS Lab" href="https://www.jku.at/en/linz-institute-of-technology/research/research-labs/cyber-physical-systems-lab/">Cyber-Physical Systems Lab</a>, <br/>Johannes Kepler University Linz, Austria.<br/> Altenberger Strasse 69, A-4040 Linz, Austria 
 
 Email: rick--dot--rabiser--at--jku--dot--at<br/>
 Phone: +43 732 2468 4363<br/>
