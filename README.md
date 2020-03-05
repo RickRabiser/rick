@@ -70,9 +70,9 @@ Institute Homepage: <a href="https://www.jku.at/en/linz-institute-of-technology/
 <em>As a member of the steering, organizing, program (and/or other) committees for these events I cordially invite you to submit your research to: </em>
 
 <ul>
- <li><a href="http://se20.ocg.at/">Software Engineering 2020, February 25-28, 2020, Innsbruck, Austria</a>.</li>
  <li><a href="https://dsd-seaa2020.um.si/">Euromicro SEAA/DSD 2020, August 26-28, 2020, Portoroz, Slovenia</a>.</li>
  <li><a href="http://www.splc2020.net">SPLC 2020, October 19-24, 2020, Montreal, Canada</a>.</li>
+ <li><a href="https://www.software-quality-days.com/">Software Quality Days 2021, January 19-21, 2021, Vienna, Austria</a>.</li>
 </ul>
 
 ## Services for Research Communities
