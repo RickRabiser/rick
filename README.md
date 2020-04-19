@@ -75,7 +75,7 @@ Institute Homepage: <a href="https://www.jku.at/en/linz-institute-of-technology/
  <li><a href="http://www.splc2020.net">SPLC 2020, October 19-24, 2020, Montreal, Canada</a>.</li>
  <li><a href="https://www.software-quality-days.com/">Software Quality Days 2021, January 19-21, 2021, Vienna, Austria</a>.</li>
  <li>VaMoS 2021, Krems, Austria, Feb 9-11, 2021</li>
- <li><a href="https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition">ACM Student Research Competition at ICSE 2021</a></li>
+ <li><a href="https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition">ACM Student Research Competition at ICSE 2021, Madrid, Spain, May 23-29, 2021.</a></li>
 </ul>
 
 ## Services for Research Communities
