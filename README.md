@@ -70,13 +70,12 @@ Institute Homepage: <a href="https://www.jku.at/en/linz-institute-of-technology/
 <em>As a member of the steering, organizing, program (and/or other) committees for these events I cordially invite you to submit your research to: </em>
 
 <ul>
- <li><a href="https://dsd-seaa2020.um.si/">Euromicro SEAA/DSD 2020, August 26-28, 2020, Portoroz, Slovenia</a>.</li>
  <li><a href="http://confws20.ist.tugraz.at/ConfigurationWorkshop2020/">Workshop on Configuration 2020, September 10-11, 2020, Vicenza, Italy</a></li>
  <li><a href="http://events.disim.univaq.it/SASI4/">Second Workshop on Systems, Architectures, and Solutions for Industry 4.0, Co-located with ECSA 2020, L'Aquila Italy, 14-15 Sept, 2020</a>.</li>
- <li><a href="http://www.splc2020.net">SPLC 2020, October 19-24, 2020, Montreal, Canada</a>.</li> 
+ <li><a href="http://www.splc2020.net">SPLC 2020, October 19-23, 2020, Montreal, Canada</a>.</li> 
+ <li><a href="https://modevar.github.io">MODEVAR at SPLC 2020, October 19-23, 2020, Montreal, Canada</a>.</li> 
  <li><a href="https://www.software-quality-days.com/">Software Quality Days 2021, January 19-21, 2021, Vienna, Austria</a>.</li>
  <li><a href="https://vamos2021.fh-krems.ac.at/">VaMoS 2021, Krems, Austria, Feb 9-11, 2021</a></li>
-
  <li><a href="https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition">ACM Student Research Competition at ICSE 2021, Madrid, Spain, May 23-29, 2021.</a></li>
 </ul>
 
@@ -115,9 +114,10 @@ SWQD 2016</a>, <a href="http://www.vamos-workshop.net">VaMoS 2016</a>, <a href="
  	<li><a href="https://splc2019.net/call-for-papers/call-for-data-demonstrations-and-tools/">SPLC 2019 -- Demonstrations and Tools</a> Chair (with Leopoldo Teixeira)</li>
  <li><a href="http://spltea.irisa.fr/">SPLTea 2019 (Workshop@SPLC 2019) -- OC Co-Chair</a></li>
  <li><a href="https://modevar.github.io/">MODEVAR 2019 (Workshop@SPLC 2019), OC Co-Chair</a></li>
- 	<li><a href="https://modevar.github.io/">MODEVAR 2029 (Workshop@VaMoS 2020), OC Co-Chair</a></li>
+ 	<li><a href="https://modevar.github.io/">MODEVAR 2020 (Workshop@VaMoS 2020), OC Co-Chair</a></li>
   <li><a href="http://se20.ocg.at/">SE 2020</a> -- PC Chair (with Willi Hasselbring)</li>
  <li><a href="https://dsd-seaa2020.um.si/">Euromicro SEAA 2020</a> -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
+  	<li><a href="https://modevar.github.io/">MODEVAR 2020 (Workshop@SPLC 2020), OC Co-Chair</a></li>
  	<li><a href="https://www.jku.at/schule/jku-young-scientists/informatik/">JKU Young Computer Scientists</a> -- Program Manager</li>
 </ul>
 
