@@ -159,6 +159,7 @@ vol. 52(3), pp. 324-346, 2010"</li>
  	<li><a href="http://www.sosym.org/people/">Journal of Software and Systems Modeling Reviewer Recognition</a> (Jan 2019).</li>
  <li>Empirical Software Engineering Journal Reviewer Recognition for 2019 (Jan 2020)</li>
  <li>Journal of Software: Evolution and Process Reviewer Recognition for 2019 (Feb 2020)</li>
+ <li><a href="https://www.journals.elsevier.com/journal-of-systems-and-software/most-cited-articles">Journal of Systems and Software Most Cited Article since 2017 </a> (Aug 2020) for <a href="https://doi.org/10.1016/j.jss.2016.12.034">R. Rabiser, S. Guinea, M. Vierhauser, L. Baresi, and P. Grünbacher: A Comparison Framework for Runtime Monitoring Approaches. Journal of Systems and Software, vol. 125, pp. 309-321, 2017.</a></li>
 </ul>
 
 ### Other/Misc
