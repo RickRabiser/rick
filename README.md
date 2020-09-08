@@ -70,14 +70,13 @@ Institute Homepage: <a href="https://www.jku.at/en/linz-institute-of-technology/
 <em>As a member of the steering, organizing, program (and/or other) committees for these events I cordially invite you to submit your research to: </em>
 
 <ul>
- <li><a href="http://confws20.ist.tugraz.at/ConfigurationWorkshop2020/">Workshop on Configuration 2020, September 10-11, 2020, Vicenza, Italy</a></li>
- <li><a href="http://events.disim.univaq.it/SASI4/">Second Workshop on Systems, Architectures, and Solutions for Industry 4.0, Co-located with ECSA 2020, L'Aquila Italy, 14-15 Sept, 2020</a>.</li>
- <li><a href="http://www.splc2020.net">SPLC 2020, October 19-23, 2020, Montreal, Canada</a>.</li> 
- <li><a href="https://modevar.github.io">MODEVAR at SPLC 2020, October 19-23, 2020, Montreal, Canada</a>.</li> 
- <li><a href="https://sites.google.com/view/varivolution2020/">VariVolution at SPLC 2020, October 19-23, 2020, Montreal, Canada</a>.</li>
- <li><a href="https://weesr.github.io/">WEESR at SPLC 2020, October 19-23, 2020, Montreal, Canada</a>.</li>
+ <li><a href="http://www.splc2020.net">SPLC 2020, October 19-23, 2020, Montreal, Canada (Virtual)</a>.</li> 
+ <li><a href="https://modevar.github.io">MODEVAR at SPLC 2020, October 19-23, 2020, Montreal, Canada (Virtual)</a>.</li> 
+ <li><a href="https://sites.google.com/view/varivolution2020/">VariVolution at SPLC 2020, October 19-23, 2020, Montreal, Canada (Virtual)</a>.</li>
+ <li><a href="https://weesr.github.io/">WEESR at SPLC 2020, October 19-23, 2020, Montreal, Canada (Virtual)</a>.</li>
  <li><a href="https://www.software-quality-days.com/">Software Quality Days 2021, January 19-21, 2021, Vienna, Austria</a>.</li>
- <li><a href="https://vamos2021.fh-krems.ac.at/">VaMoS 2021, Krems, Austria, Feb 9-11, 2021</a></li>
+ <li><a href="https://vamos2021.fh-krems.ac.at/">VaMoS 2021, Feb 9-11, 2021, Krems, Austria</a>.</li>
+ <li><a href="https://rickrabiser.github.io/secpps-ws/">SE 2021 Workshop SECPPS, Feb 22-26, 2021, Braunschweig, Germany (Virtual)</a>.</li>
  <li><a href="https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition">ACM Student Research Competition at ICSE 2021, Madrid, Spain, May 23-29, 2021.</a></li>
 </ul>
 
