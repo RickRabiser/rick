@@ -76,6 +76,7 @@ Institute Homepage: <a href="https://www.jku.at/en/linz-institute-of-technology/
  <li><a href="https://weesr.github.io/">WEESR at SPLC 2020, October 19-23, 2020, Montreal, Canada (Virtual)</a>.</li>
  <li><a href="https://www.software-quality-days.com/">Software Quality Days 2021, January 19-21, 2021, Vienna, Austria</a>.</li>
  <li><a href="https://vamos2021.fh-krems.ac.at/">VaMoS 2021, Feb 9-11, 2021, Krems, Austria</a>.</li>
+ <li><a href="https://se-2021.tu-bs.de/">SE 2021, Feb 22-26, 2021, Braunschweig, Germany (Virtual)</a>.</li>
  <li><a href="https://rickrabiser.github.io/secpps-ws/">SE 2021 Workshop SECPPS, Feb 22-26, 2021, Braunschweig, Germany (Virtual)</a>.</li>
  <li><a href="https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition">ACM Student Research Competition at ICSE 2021, Madrid, Spain, May 23-29, 2021.</a></li>
 </ul>
