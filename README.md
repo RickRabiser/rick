@@ -70,10 +70,6 @@ Institute Homepage: <a href="https://www.jku.at/en/linz-institute-of-technology/
 <em>As a member of the steering, organizing, program (and/or other) committees for these events I cordially invite you to submit your research to: </em>
 
 <ul>
- <li><a href="http://www.splc2020.net">SPLC 2020, October 19-23, 2020, Montreal, Canada (Virtual)</a>.</li> 
- <li><a href="https://modevar.github.io">MODEVAR at SPLC 2020, October 19-23, 2020, Montreal, Canada (Virtual)</a>.</li> 
- <li><a href="https://sites.google.com/view/varivolution2020/">VariVolution at SPLC 2020, October 19-23, 2020, Montreal, Canada (Virtual)</a>.</li>
- <li><a href="https://weesr.github.io/">WEESR at SPLC 2020, October 19-23, 2020, Montreal, Canada (Virtual)</a>.</li>
  <li><a href="https://www.software-quality-days.com/">Software Quality Days 2021, January 19-21, 2021, Vienna, Austria</a>.</li>
  <li><a href="https://vamos2021.fh-krems.ac.at/">VaMoS 2021, Feb 9-11, 2021, Krems, Austria</a>.</li>
  <li><a href="https://se-2021.tu-bs.de/">SE 2021, Feb 22-26, 2021, Braunschweig, Germany (Virtual)</a>.</li>
