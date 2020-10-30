@@ -116,8 +116,8 @@ SWQD 2016</a>, <a href="http://www.vamos-workshop.net">VaMoS 2016</a>, <a href="
  	<li><a href="https://modevar.github.io/">MODEVAR 2020 (Workshop@VaMoS 2020), OC Co-Chair</a></li>
   <li><a href="http://se20.ocg.at/">SE 2020</a> -- PC Chair (with Willi Hasselbring)</li>
  <li><a href="https://dsd-seaa2020.um.si/">Euromicro SEAA 2020</a> -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
-  	<li><a href="https://modevar.github.io/">MODEVAR 2020 (Workshop@SPLC 2020), OC Co-Chair</a></li>
- 	<li><a href="https://www.jku.at/schule/jku-young-scientists/informatik/">JKU Young Computer Scientists</a> -- Program Manager</li>
+  <li><a href="https://modevar.github.io/">MODEVAR 2020 (Workshop@SPLC 2020), OC Co-Chair</a></li>
+ <li>Euromicro SEAA 2021 -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
 </ul>
 
 ### Reviewer for Journals and Magazines
@@ -162,7 +162,7 @@ vol. 52(3), pp. 324-346, 2010"</li>
 ### Other/Misc
 
 <ul>
- 	<li><a href="http://www.cs.utexas.edu/users/dsb/SPLC/">Member of the Most-Influential Paper Selection Committee of the Int’l Systems and Software Product Line Conference (SPLC), 2016-2020.</a></li>
+ 	<li><a href="https://www.jku.at/schule/jku-young-scientists/informatik/">JKU Young Computer Scientists</a> -- Program Manager</li>
  	<li>Professional Member of <a href="http://www.acm.org">ACM</a></li>
  	<li>Member of <a href="http://euromicro.org/">Euromicro</a></li>
  	<li>Member of the Euromicro Board of Directors (Director for Austria)</li>
