@@ -4,6 +4,9 @@ Univ.-Prof. Mag. Dr. ([Curriculum Vitae](https://github.com/RickRabiser/rick/raw
 
 Email: rick--dot--rabiser--at--jku--dot--at<br/>
 Phone: +43 732 2468 4363<br/>
+Adminstrative Assistant: Ursula Schwarzgruber<br/>
+Email: ursula--dot--schwarzgruber--at--jku--dot--at<br/>
+Phone: +43 732 2468 9494<br/>
 Office: <a href="https://www.jku.at/linz-institute-of-technology/das-lit/lit-open-innovation-center/">LIT Open Innovation Center</a> (ground floor)<br/>
 Institute Homepage: <a href="https://www.jku.at/en/linz-institute-of-technology/research/research-labs/cyber-physical-systems-lab/our-team/univ-prof-mag-dr-rick-rabiser/">Homepage at the LIT CPS Lab</a><br/>
 
