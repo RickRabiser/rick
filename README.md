@@ -1,6 +1,6 @@
 ## Welcome to Rick Rabiser's Homepage
 
-Univ.-Prof. Mag. Dr. ([Curriculum Vitae](https://github.com/RickRabiser/rick/raw/master/assets/CVRR_Web.pdf)) <img src="https://raw.githubusercontent.com/RickRabiser/rickrepo/master/assets/RickRabiserSmall.jpg" alt="rrabiser" width="187" height="286" align="right"> <br/>Professor for Software Engineering in Cyber-Physical Systems, <br/>Head of the <a title="LIT CPS Lab" href="https://www.jku.at/en/linz-institute-of-technology/research/research-labs/cyber-physical-systems-lab/">Cyber-Physical Systems Lab</a>, <br/><a title="LIT" href="https://www.jku.at/en/linz-institute-of-technology/">Linz Institute of Technology</a>, <br/>Johannes Kepler University Linz, Austria, <br/>Altenberger Strasse 69, A-4040 Linz, Austria 
+Univ.-Prof. Mag. Dr. ([Curriculum Vitae](https://github.com/RickRabiser/rick/raw/master/assets/CVRR_Web.pdf)) <img src="https://raw.githubusercontent.com/RickRabiser/rickrepo/master/assets/RickRabiserSmall.jpg" alt="rrabiser" width="187" height="286" align="right"> <br/>Professor for Software Engineering in Cyber-Physical Systems, <br/>Head of the <a title="LIT CPS Lab" href="https://www.jku.at/en/linz-institute-of-technology/research/research-labs/cyber-physical-systems-lab/">Cyber-Physical Systems Lab</a>, <br/>Head of the <a title="CDL VaSiCS" href="https://www.jku.at/cdl-vasics/">Christian Doppler Lab VaSiCS</a>, <br/><a title="LIT" href="https://www.jku.at/en/linz-institute-of-technology/">Linz Institute of Technology</a>, <br/>Johannes Kepler University Linz, Austria, <br/>Altenberger Strasse 69, A-4040 Linz, Austria 
 
 Email: rick--dot--rabiser--at--jku--dot--at<br/>
 Phone: +43 732 2468 4363<br/>
@@ -73,12 +73,14 @@ Institute Homepage: <a href="https://www.jku.at/en/linz-institute-of-technology/
 <em>As a member of the steering, organizing, program (and/or other) committees for these events I cordially invite you to submit your research to: </em>
 
 <ul>
- <li><a href="https://www.software-quality-days.com/">Software Quality Days 2021, January 19-21, 2021, Vienna, Austria</a>.</li>
  <li><a href="https://vamos2021.fh-krems.ac.at/">VaMoS 2021, Feb 9-11, 2021, Krems, Austria</a>.</li>
  <li><a href="https://se-2021.tu-bs.de/">SE 2021, Feb 22-26, 2021, Braunschweig, Germany (Virtual)</a>.</li>
  <li><a href="https://rickrabiser.github.io/secpps-ws/">SE 2021 Workshop SECPPS, Feb 22-26, 2021, Braunschweig, Germany (Virtual)</a>.</li>
  <li><a href="https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition">ACM Student Research Competition at ICSE 2021, Madrid, Spain, May 23-29, 2021.</a></li>
  <li><a href="https://www.aconf.org/conf_161803">INDIN 2021, Jul 21-23, 2021, Palma de Mallorca, Spain</a></li>
+ <li><a href="https://dsd-seaa2021.unipv.it/seaa/">Euromicro SEAA 2021, Sept 1-3, 2021, Palermo, Italy</a></li>
+ <li><a href="https://splc2021.net">SPLC 2021, Sept 6-11, 2021, Leicester, United Kingdom</a></li>
+ <li><a href="https://splc2021.net/call-for-papers/call-for-doctoral-symposium-papers">SPLC 2021 Doctoral Symposium, Sept 6-11, 2021, Leicester, United Kingdom</a></li>
 </ul>
 
 ## Services for Research Communities
@@ -120,7 +122,8 @@ SWQD 2016</a>, <a href="http://www.vamos-workshop.net">VaMoS 2016</a>, <a href="
   <li><a href="http://se20.ocg.at/">SE 2020</a> -- PC Chair (with Willi Hasselbring)</li>
  <li><a href="https://dsd-seaa2020.um.si/">Euromicro SEAA 2020</a> -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
   <li><a href="https://modevar.github.io/">MODEVAR 2020 (Workshop@SPLC 2020), OC Co-Chair</a></li>
- <li>Euromicro SEAA 2021 -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
+ <li><a href="https://dsd-seaa2021.unipv.it/seaa/">Euromicro SEAA 2021 -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</a></li>
+  <li><a href="https://splc2021.net/call-for-papers/call-for-doctoral-symposium-papers">SPLC 2021 Doctoral Symposium Co-Chair (with Mahsa Varshosaz)</a></li>
 </ul>
 
 ### Reviewer for Journals and Magazines
