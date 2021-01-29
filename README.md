@@ -14,7 +14,7 @@ Institute Homepage: <a href="https://www.jku.at/en/linz-institute-of-technology/
 
 ## Information for Students
 
-<strong>Information for Students</strong>: I have no explicit office hours, so if you need something, e.g., information on the courses I teach or about available projects, Bachelor's theses, and Master's theses, do not hesitate to contact me via e-mail at any time and we will arrange an appointment. Information on courses is available in <a href="http://kusss.jku.at">KUSSS</a>.
+I have no explicit office hours, but if you need anything, e.g., information on the courses I teach or about available projects, Bachelor's theses, and Master's theses, or just want to chat, do not hesitate to contact me via e-mail at any time and we will arrange an appointment. Information on courses is available in <a href="http://kusss.jku.at">KUSSS</a>.
 
 <b>Ideas for Topics for Practica, Bachelor's, or Master's Theses</b>:
 
@@ -24,7 +24,7 @@ Institute Homepage: <a href="https://www.jku.at/en/linz-institute-of-technology/
 <li>Variability Management Tools: evaluate and improve (and/or integrate) existing variability management and modeling tools</li>
 </ul>
 
-If you find anything interesting in the areas mentioned above and/or have a suggestion, <b>just contact me, we can always have a quick informal chat</b>.
+If you find anything interesting in the areas mentioned above and/or have a suggestion, <b>just contact me</b>, best via email.
 
 ## Research Interests
 
