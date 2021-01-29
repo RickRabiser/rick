@@ -12,7 +12,19 @@ Institute Homepage: <a href="https://www.jku.at/en/linz-institute-of-technology/
 
 <a href="https://twitter.com/RickRabiser" alt="Twitter"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png"></a> <a href="https://www.linkedin.com/in/rick-rabiser-a1437913/" alt="Linkedin"><img src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
 
+## Information for Students
+
 <strong>Information for Students</strong>: I have no explicit office hours, so if you need something, e.g., information on the courses I teach or about available projects, Bachelor's theses, and Master's theses, do not hesitate to contact me via e-mail at any time and we will arrange an appointment. Information on courses is available in <a href="http://kusss.jku.at">KUSSS</a>.
+
+<b>Ideas for Topics for Practica, Bachelor's, or Master's Theses</b>:
+
+<ul>
+<li>Automated Variability Mining: automatically generate variability models based on analyzing arbitrary, heterogeneous artifacts</li>
+<li>Variability Visualization: come up with new ways to represent variability of software to (end) users, e.g., modelers and configurers</li>
+<li>Variability Management Tools: evaluate and improve (and/or integrate) existing variability management and modeling tools</li>
+</ul>
+
+If you find anything interesting in the areas mentioned above and/or have a suggestion, <b>just contact me, we can always have a quick informal chat</b>.
 
 ## Research Interests
 
