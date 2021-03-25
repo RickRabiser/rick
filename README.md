@@ -66,7 +66,7 @@ If you find anything interesting in the areas mentioned above and/or have a sugg
  	<li><a href="https://academic.microsoft.com/author/2251273329/publication">My Microsoft Academic Profile</a></li>
  	<li><a href="http://researchr.org/alias/rick-rabiser">My researchr Profile</a></li>
  	<li><a href="https://www.researchgate.net/profile/Rick_Rabiser">My ResearchGate Profile</a></li>
- 	<li><a href="https://www.mendeley.com/profiles/rick-rabiser/">My Mendeley Profile</a></li>
+ 	<li><a href="https://www.scopus.com/authid/detail.uri?authorId=16029658700">My Scopus Profile</a></li>
  	<li><a style="vertical-align: top;" href="https://orcid.org/0000-0003-3862-1112" target="orcid.widget" rel="noopener noreferrer">orcid.org/0000-0003-3862-1112</a></li>
  	<li><a href="http://www.researcherid.com/rid/B-8673-2017">ResearcherID</a></li>
   <li><a href="https://aminer.org/profile/rick-rabiser/53f45e83dabfaedd74e4b582">AMiner</a></li>
