@@ -85,9 +85,6 @@ If you find anything interesting in the areas mentioned above and/or have a sugg
 <em>As a member of the steering, organizing, program (and/or other) committees for these events I cordially invite you to submit your research to: </em>
 
 <ul>
- <li><a href="https://vamos2021.fh-krems.ac.at/">VaMoS 2021, Feb 9-11, 2021, Krems, Austria</a>.</li>
- <li><a href="https://se-2021.tu-bs.de/">SE 2021, Feb 22-26, 2021, Braunschweig, Germany (Virtual)</a>.</li>
- <li><a href="https://rickrabiser.github.io/secpps-ws/">SE 2021 Workshop SECPPS, Feb 22-26, 2021, Braunschweig, Germany (Virtual)</a>.</li>
  <li><a href="https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition">ACM Student Research Competition at ICSE 2021, Madrid, Spain, May 23-29, 2021.</a></li>
  <li><a href="https://www.aconf.org/conf_161803">INDIN 2021, Jul 21-23, 2021, Palma de Mallorca, Spain</a></li>
  <li><a href="https://dsd-seaa2021.unipv.it/seaa/">Euromicro SEAA 2021, Sept 1-3, 2021, Palermo, Italy</a></li>
