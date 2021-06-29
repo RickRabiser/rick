@@ -84,15 +84,8 @@ If you find anything interesting in the areas mentioned above and/or have a sugg
 <em>As a member of the steering, organizing, program (and/or other) committees for these events I cordially invite you to submit your research to: </em>
 
 <ul>
- <li><a href="https://www.aconf.org/conf_161803">INDIN 2021, Jul 21-23, 2021, Palma de Mallorca, Spain</a></li>
- <li><a href="https://dsd-seaa2021.unipv.it/seaa/">Euromicro SEAA 2021, Sept 1-3, 2021, Palermo, Italy</a></li>
- <li><a href="https://splc2021.net">SPLC 2021, Sept 6-11, 2021, Leicester, United Kingdom</a></li>
- <li><a href="https://splc2021.net/call-for-papers/call-for-doctoral-symposium-papers">SPLC 2021 Doctoral Symposium, Sept 6-11, 2021, Leicester, United Kingdom</a></li>
- <li><a href="https://sites.google.com/view/vm4moderntech-2021/home">VM4ModernTech Workshop at SPLC 2021, Sept 6-11, 2021, Leicester, United Kingdom</a></li>
- <li><a href="https://sites.google.com/view/varivolution2021">VariVolution Workshop at SPLC 2021, Sept 6-11, 2021, Leicester, United Kingdom</a></li>
- <li><a href="https://weesr.github.io/">WEESR Workshop at SPLC 2021, Sept 6-11, 2021, Leicester, United Kingdom</a></li>
- <li><a href="https://modevar.github.io/">MODEVAR Workshop at SPLC 2021, Sept 6-11, 2021, Leicester, United Kingdom</a></li>
  <li><a href="https://www.software-quality-days.com/">Software Quality Days 2022, Jan 18-20, 2022, Vienna, Austria</a></li>
+ <li><a href="https://vamos2022.isti.cnr.it/">VaMoS 2022, Feb 23-25, 2022, Pisa, Italy</a></li>
 </ul>
 
 ## Services for Research Communities
