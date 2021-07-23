@@ -55,7 +55,7 @@ If you find anything interesting in the areas mentioned above and/or have a sugg
 
 ### Word Cloud of my publication titles
 
-<img src="https://raw.githubusercontent.com/RickRabiser/rick/master/assets/wordcloud.png" alt="word cloud" />
+<img src="https://raw.githubusercontent.com/RickRabiser/rickrepo/master/assets/wordcloud.png" alt="word cloud" />
 (generated <a href="https://www.jasondavies.com/wordcloud/">here</a>)
 
 ## Links
