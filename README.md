@@ -16,7 +16,7 @@ Institute Homepage: <a href="https://www.jku.at/en/linz-institute-of-technology/
 
 I have no explicit office hours, but if you need anything, e.g., information on the courses I teach or about available projects, Bachelor's theses, and Master's theses, or just want to chat, do not hesitate to contact me via e-mail at any time and we will arrange an appointment. Information on courses is available in <a href="http://kusss.jku.at">KUSSS</a>.
 
-<b>Ideas for Topics for Practica, Bachelor's, or Master's Theses</b>:
+<b>Ideas for Topics for Practica, Bachelor's Theses, or Master's Theses</b>:
 
 <ul>
 <li>Automated Variability Mining: automatically generate variability models based on analyzing arbitrary, heterogeneous artifacts</li>
