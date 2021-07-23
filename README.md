@@ -53,9 +53,9 @@ If you find anything interesting in the areas mentioned above and/or have a sugg
   <li>Cyber-Physical Systems</li>
 </ul>
 
-### Word Cloud of my publication titles
+## Word Cloud of my publication titles
 
-(generated <a href="https://www.jasondavies.com/wordcloud/">here</a>)
+
 
 ## Links
 
