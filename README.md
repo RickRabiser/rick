@@ -53,10 +53,6 @@ If you find anything interesting in the areas mentioned above and/or have a sugg
   <li>Cyber-Physical Systems</li>
 </ul>
 
-## Word Cloud of my publication titles
-
-
-
 ## Links
 
 <ul>
