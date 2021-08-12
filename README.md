@@ -104,7 +104,7 @@ LIT CPS Lab (CPSforEP Group)</li>
 </ul>
 </ul>
 
-<b>Graph Mining from (4diac/IEC 61499) function block networks</b>
+<b>Graph Mining from (4diac/IEC 61499) function block networks: modularity analysis, variability mining, clone detection/similarity analysis</b>
 <ul>
  	<li>Markus Unterdechler, Lisa Sonnleithner, Elene Kutsia, Ernst Blecha, Alois Zoitl, Rick Rabiser</li>
  	<li>JKU Projects: <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a> and <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group)</li>
@@ -115,7 +115,7 @@ LIT CPS Lab (CPSforEP Group)</li>
 </ul>
 </ul>
 
-<b>Clone Detection in 4diac/IEC 61499</b>
+<b>Clone Detection in 4diac/IEC 61499 (Bachleor Thesis Elene Kutsia)</b>
 <ul>
  	<li>Elene Kutsia, Lisa Sonnleithner, Markus Unterdechler, Michael Oberlehner, Ernst Blecha, Alois Zoitl, Rick Rabiser</li>
  	<li>JKU Projects: <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a> and <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group)</li>
@@ -150,7 +150,7 @@ LIT CPS Lab (CPSforEP Group)</li>
 </ul>
 </ul>
 
-<b>Testing of Highly Configurable Cyber-Physical Systems - A Multiple Case Study</b>
+<b>Testing of Highly Configurable Cyber-Physical Systems</b>
 <ul>
  	<li>Stefan Fischer, Claus Klammer, Rudolf Ramler, Antonio Gutierrez, Rick Rabiser</li>
  	<li>JKU Projects: JKU Projects: <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a> and <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group)</li>
@@ -161,7 +161,7 @@ LIT CPS Lab (CPSforEP Group)</li>
 </ul>
 </ul>
 
-<b>MODEVAR: standard variability modelling language developed by academia for academia and practice</b>
+<b>MODEVAR: Variability modeling language the community can agree on</b>
 <ul>
  	<li>David Benavides, Thomas Thüm, Chico Sundermann, Philippe Collet, Mathieu Acher, Don Batory, Kevin Feichtinger, Rick Rabiser, and many more</li>
  	<li>JKU Projects: <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group) and <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
@@ -176,7 +176,7 @@ LIT CPS Lab (CPSforEP Group)</li>
 </ul>
 </ul>
 
-<b>Investigate and improve relation of research and practice in Software Engineering, particularly Systems and Software Product Lines area</b>
+<b>Investigate and improve relation of research and practice in Software Engineering, particularly in Systems and Software Product Lines</b>
 <ul>
  	<li>Klaus Schmid, Rick Rabiser, Martin Becker, Goetz Botterweck, Matthias Galster, Iris Groher, Danny Weyns</li>
  	<li>JKU Projects: <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group) and <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
@@ -186,6 +186,7 @@ LIT CPS Lab (CPSforEP Group)</li>
  	<li>R. Rabiser, K. Schmid, M. Becker, G. Botterweck, M. Galster, I. Groher, and D. Weyns: <a href="https://doi.org/10.1145/3233027.3233028">A Study and Comparison of Industrial vs. Academic Software Product Line Research Published at SPLC</a>, 22nd International Systems and Software Product Line Conference (SPLC 2018),  ACM, 2018, pp. 14-24.</li>
  	<li>R. Rabiser, K. Schmid, M. Becker, G. Botterweck, M. Galster, I. Groher, and D. Weyns: <a href="https://doi.org/10.1145/3336294.3336310">Industrial and Academic Software Product Line Research at SPLC: Perceptions of the Community</a>, 23rd International Systems and Software Product Line Conference, ACM, 2019, pp. 189-194.</li>
  	<li>K. Schmid, R. Rabiser, M. Becker, G. Botterweck, M. Galster, I. Groher, and D. Weyns: Bridging the Gap: Voices from Industry and Research on Industrial Relevance of SPLC, 25th International Systems and Software Product Line Conference, ACM, 2021.</li>
+	<li><a href="https://splc.net/">SPLC</a></li>
 </ul>
 </ul>
 
@@ -250,6 +251,8 @@ LIT CPS Lab (CPSforEP Group)</li>
 <ul>
  	<li>The aim of this lab is to perform trans-disciplinary, original scientific research between industry and academia on recent computer science topics, particularly from the areas of software engineering, artificial intelligence, and data science.</li>
 	<li>Concrete Topics: Distributed Data Platforms and/or Real-Time Data Analytics</li>
+	<li><a href="https://www.jku.at/en/lit-cyber-physical-systems-lab/research/research-projects/co-innovation-lab-1">Co-Innovation Lab</a></li>
+	<li><a href="https://engineering.dynatrace.com/research/">Dynatrace Research</a></li>
 </ul>
 </ul>
 
