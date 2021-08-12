@@ -64,7 +64,7 @@ If you find anything interesting in the areas mentioned above and/or have a sugg
 <b>TraVarT: An Approach for Transforming Variability Models (Dissertation Kevin Feichtinger (supervisor: Rick Rabiser))</b>
 <ul>
  	<li>Kevin Feichtinger, Dario Romano, Rick Rabiser</li>
- 	<li>JKU Projects: <a href"https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group) and <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
+ 	<li>JKU Projects: <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group) and <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
  	<li>Cooperation with: TU Vienna, Uni Ulm, SE/WIN JKU</li>
  	<li>Publications/Further Information:</li>
 <ul>
@@ -77,7 +77,7 @@ If you find anything interesting in the areas mentioned above and/or have a sugg
 <b>Heterogeneous Multi-Dimensional Variability Modeling in Cyber-Physical Production Systems using Deltas (Dissertation Hafiyyan Sayyid Fadhlillah (supervisors: Rick Rabiser, Alois Zoitl))</b>
 <ul>
  	<li>Hafiyyan Sayyid Fadhlillah, Philipp Bauer, Ernst Blecha, Kevin Feichtinger, Antonio Gutierrez, Michael Oberlehner, Lisa Sonnleithner, Bianca Wiesmayr, Alois Zoitl</li>
- 	<li>JKU Projects: <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a> and <a href"https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (CPSforEP and SECPS Groups)</li>
+ 	<li>JKU Projects: <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a> and <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (CPSforEP and SECPS Groups)</li>
  	<li>Partners: <a href="https://www.primetals.com/">Primetals Technologies</a>, <a href="https://www.cdg.ac.at/">Christian Doppler Forschungsgesellschaft</a></li>
  	<li>Publications/Further Information:</li>
 <ul>
@@ -91,7 +91,7 @@ If you find anything interesting in the areas mentioned above and/or have a sugg
 <b>Better Control Software Design (Bad Smells, Metrics, Design Patterns, etc. for IEC 61499; Dissertation Lisa Sonnleithner (supervisors: Alois Zoitl, Rick Rabiser))</b>
 <ul>
  	<li>Lisa Sonnleithner, Elene Kutsia, Ernst Blecha, Alois Zoitl, Rick Rabiser</li>
- 	<li>JKU Projects: <a href="https://www.jku.at/en/lit-cyber-physical-systems-lab/research/research-projects/1-swarm">EU Project 1-SWARM</a>, <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a>, and <a href"https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (CPSforEP Group)
+ 	<li>JKU Projects: <a href="https://www.jku.at/en/lit-cyber-physical-systems-lab/research/research-projects/1-swarm">EU Project 1-SWARM</a>, <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a>, and <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (CPSforEP Group)
 LIT CPS Lab (CPSforEP Group)</li>
  	<li>Partners: <a href="https://cordis.europa.eu/project/id/871743">EU Project Consortium</a>, <a href="https://www.primetals.com/">Primetals Technologies</a>, <a href="https://www.cdg.ac.at/">Christian Doppler Forschungsgesellschaft</a></li>
  	<li>Publications/Further Information:</li>
@@ -107,7 +107,7 @@ LIT CPS Lab (CPSforEP Group)</li>
 <b>Graph Mining from (4diac/IEC 61499) function block networks</b>
 <ul>
  	<li>Markus Unterdechler, Lisa Sonnleithner, Elene Kutsia, Ernst Blecha, Alois Zoitl, Rick Rabiser</li>
- 	<li>JKU Projects: <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a> and <a href"https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group)</li>
+ 	<li>JKU Projects: <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a> and <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group)</li>
  	<li>Partners: <a href="https://www.primetals.com/">Primetals Technologies</a>, <a href="https://www.cdg.ac.at/">Christian Doppler Forschungsgesellschaft</a></li>
  	<li>Publications/Further Information:</li>
 <ul>
@@ -118,7 +118,7 @@ LIT CPS Lab (CPSforEP Group)</li>
 <b>Clone Detection in 4diac/IEC 61499</b>
 <ul>
  	<li>Elene Kutsia, Lisa Sonnleithner, Markus Unterdechler, Michael Oberlehner, Ernst Blecha, Alois Zoitl, Rick Rabiser</li>
- 	<li>JKU Projects: <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a> and <a href"https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group)</li>
+ 	<li>JKU Projects: <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a> and <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group)</li>
  	<li>Partners: <a href="https://www.primetals.com/">Primetals Technologies</a>, <a href="https://www.cdg.ac.at/">Christian Doppler Forschungsgesellschaft</a></li>
  	<li>Publications/Further Information:</li>
 <ul>
@@ -129,7 +129,7 @@ LIT CPS Lab (CPSforEP Group)</li>
 <b>A Variability Modeling Body of Knowledge</b>
 <ul>
  	<li>Kevin Feichtinger, Kristof Meixner, Stefan Biffl, Rick Rabiser</li>
- 	<li>JKU Projects: <a href"https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group) and <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
+ 	<li>JKU Projects: <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group) and <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
  	<li>Cooperation with: TU Vienna</li>
  	<li>Publications/Further Information:</li>
 <ul>
@@ -141,7 +141,7 @@ LIT CPS Lab (CPSforEP Group)</li>
 <b>A Reusable Set of Real-World Product Line Case Studies for Comparing Variability Models in Research and Practice</b>
 <ul>
  	<li>Kevin Feichtinger, Kristof Meixner, Stefan Biffl, Rick Rabiser</li>
- 	<li>JKU Projects: <a href"https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group) and <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
+ 	<li>JKU Projects: <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group) and <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
  	<li>Cooperation with: TU Vienna</li>
  	<li>Publications/Further Information:</li>
 <ul>
@@ -153,7 +153,7 @@ LIT CPS Lab (CPSforEP Group)</li>
 <b>Testing of Highly Configurable Cyber-Physical Systems - A Multiple Case Study</b>
 <ul>
  	<li>Stefan Fischer, Claus Klammer, Rudolf Ramler, Antonio Gutierrez, Rick Rabiser</li>
- 	<li>JKU Projects: JKU Projects: <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a> and <a href"https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group)</li>
+ 	<li>JKU Projects: JKU Projects: <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a> and <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group)</li>
  	<li>Cooperation with: SCCH</li>
  	<li>Publications/Further Information:</li>
 <ul>
@@ -164,7 +164,7 @@ LIT CPS Lab (CPSforEP Group)</li>
 <b>MODEVAR: standard variability modelling language developed by academia for academia and practice</b>
 <ul>
  	<li>David Benavides, Thomas Thüm, Chico Sundermann, Philippe Collet, Mathieu Acher, Don Batory, Kevin Feichtinger, Rick Rabiser, and many more</li>
- 	<li>JKU Projects: <a href"https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group) and <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
+ 	<li>JKU Projects: <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group) and <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
  	<li>Cooperation with: University of Sevilla, Uni Ulm, University of Rennes, Université Côte d’Azur, and many more</li>
  	<li>Publications/Further Information:</li>
 <ul>
@@ -179,7 +179,7 @@ LIT CPS Lab (CPSforEP Group)</li>
 <b>Investigate and improve relation of research and practice in Software Engineering, particularly Systems and Software Product Lines area</b>
 <ul>
  	<li>Klaus Schmid, Rick Rabiser, Martin Becker, Goetz Botterweck, Matthias Galster, Iris Groher, Danny Weyns</li>
- 	<li>JKU Projects: <a href"https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group) and <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
+ 	<li>JKU Projects: <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group) and <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
  	<li>Cooperation with: Uni Hildesheim, SE WIN JKU, Fraunhofer IESE, Canterbury University NZ, KU Leuven, Lero/Trinity College Dublin</li>
  	<li>Publications/Further Information:</li>
 <ul>
@@ -192,7 +192,7 @@ LIT CPS Lab (CPSforEP Group)</li>
 <b>REMINDS Open Source</b>
 <ul>
  	<li>Dario Romano, Michael Vierhauser, Paul Grünbacher, Rick Rabiser</li>
- 	<li>JKU Projects: <a href"https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group), <a href="https://www.jku.at/en/institute-of-software-systems-engineering">ISSE</a></li>
+ 	<li>JKU Projects: <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group), <a href="https://www.jku.at/en/institute-of-software-systems-engineering">ISSE</a></li>
  	<li>Partners: Primetals Technologies</li>
  	<li>Publications/Further Information:</li>
 <ul>
@@ -204,7 +204,7 @@ LIT CPS Lab (CPSforEP Group)</li>
 <b>SECPPS (Software Engineering in Cyber-Physical Production Systems)</b>
 <ul>
  	<li>Rick Rabiser, Alois Zoitl, Birgit Vogel-Heuser, Manuel Wimmer, a.o.</li>
- 	<li>JKU Projects: <a href"https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group) and <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
+ 	<li>JKU Projects: <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group) and <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
  	<li>Cooperation with: TU Munich, SE/WIN JKU</li>
  	<li>Publications/Further Information:</li>
 <ul>
@@ -216,7 +216,7 @@ LIT CPS Lab (CPSforEP Group)</li>
 <b>IFAC Technical Committee 3.1 on "Computers for Control"</b>
 <ul>
  	<li>Lisa Sonnleithner, Antonio Gutierrez, Hafiyyan Sayyid Fadhlillah, Rick Rabiser, Alois Zoitl, a.o.</li>
- 	<li>JKU Projects: <a href"https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group and CPSforEP Group) and <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
+ 	<li>JKU Projects: <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group and CPSforEP Group) and <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
  	<li>Cooperation with: TU Munich, a.o.</li>
  	<li>Publications/Further Information:</li>
 <ul>
@@ -231,7 +231,7 @@ LIT CPS Lab (CPSforEP Group)</li>
 <b>Usability Studies of Software Engineering Tools</b>
 <ul>
  	<li>Paul Grünbacher, Rick Rabiser</li>
- 	<li>JKU Projects: <a href"https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group), <a href="https://www.jku.at/en/institute-of-software-systems-engineering">ISSE</a>, <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
+ 	<li>JKU Projects: <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group), <a href="https://www.jku.at/en/institute-of-software-systems-engineering">ISSE</a>, <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
  	<li>Publications/Further Information:</li>
 <ul>
  	<li>B. Wiesmayr, A. Zoitl, and R. Rabiser: Assessing the Usefulness of a Visual Programming IDE for Large-Scale Automation Software. ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MODELS), IEEE, 2021.</li>
@@ -244,7 +244,7 @@ LIT CPS Lab (CPSforEP Group)</li>
 <b>JKU/Dynatrace Co-Innovation Lab</b>
 <ul>
  	<li>Rick Rabiser, Dario Romano, 2 Post-Docs (full time) to be hired</li>
- 	<li>JKU Projects: LIT CPS Lab (SECPS Group)</li>
+ 	<li>JKU Projects: <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group)</li>
  	<li>Partners: JKU, Dynatrace Austria</li>
  	<li>Publications/Further Information:</li>
 <ul>
