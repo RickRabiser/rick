@@ -198,7 +198,7 @@ LIT CPS Lab (CPSforEP Group)</li>
  	<li>Publications/Further Information:</li>
 <ul>
  	<li>M. Vierhauser, R. Rabiser, P. Grünbacher, K. Seyerlehner, S. Wallner, and H. Zeisel: <a href="https://doi.org/10.1016/j.jss.2015.07.008">ReMinds: A Flexible Runtime Monitoring Framework for Systems of Systems</a>. Journal of Systems and Software, vol. 112. pp. 123-136, 2016.</li>
-	<li><a href="mevss.jku.at/reminds/">REMINDS</a></li>
+	<li><a href="http://mevss.jku.at/reminds/">REMINDS</a></li>
 </ul>
 </ul>
 
