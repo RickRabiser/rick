@@ -83,8 +83,7 @@ I have no explicit office hours, but if you need anything, e.g., information on 
 <b>Better Control Software Design (Bad Smells, Metrics, Design Patterns, etc. for IEC 61499; Dissertation Lisa Sonnleithner (supervisors: Alois Zoitl, Rick Rabiser))</b>
 <ul>
  	<li>Lisa Sonnleithner, Elene Kutsia, Ernst Blecha, Alois Zoitl, Rick Rabiser</li>
- 	<li>JKU Projects: <a href="https://www.jku.at/en/lit-cyber-physical-systems-lab/research/research-projects/1-swarm">EU Project 1-SWARM</a>, <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a>, and <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (CPSforEP Group)
-LIT CPS Lab (CPSforEP Group)</li>
+ 	<li>JKU Projects: <a href="https://www.jku.at/en/lit-cyber-physical-systems-lab/research/research-projects/1-swarm">EU Project 1-SWARM</a>, <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a>, and <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (CPSforEP Group)</li>
  	<li>Partners: <a href="https://cordis.europa.eu/project/id/871743">EU Project Consortium</a>, <a href="https://www.primetals.com/">Primetals Technologies</a>, <a href="https://www.cdg.ac.at/">Christian Doppler Forschungsgesellschaft</a></li>
  	<li>Publications/Further Information:</li>
 <ul>
