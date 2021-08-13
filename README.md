@@ -236,7 +236,7 @@ I have no explicit office hours, but if you need anything, e.g., information on 
 <b>JKU/Dynatrace Co-Innovation Lab</b>
 <ul>
  	<li>Rick Rabiser, Dario Romano, 2 Post-Docs (full time) to be hired</li>
- 	<li>JKU Projects: <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group)</li>
+	<li>JKU Projects: <a href="https://www.jku.at/en/lit-cyber-physical-systems-lab/research/research-projects/co-innovation-lab-1">Co-Innovation Lab</a>, <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group)</li>
  	<li>Partners: JKU, Dynatrace Austria</li>
  	<li>Publications/Further Information:</li>
 <ul>
