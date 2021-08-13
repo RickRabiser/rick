@@ -98,7 +98,7 @@ LIT CPS Lab (CPSforEP Group)</li>
 
 <b>Graph Mining from (4diac/IEC 61499) function block networks: modularity analysis, variability mining, clone detection/similarity analysis</b>
 <ul>
- 	<li>Markus Unterdechler, Lisa Sonnleithner, Elene Kutsia, Ernst Blecha, Alois Zoitl, Rick Rabiser</li>
+ 	<li>Markus Unterdechler, Lisa Sonnleithner, Elene Kutsia, Ernst Blecha, Antonio Gutierrez, Alois Zoitl, Rick Rabiser</li>
  	<li>JKU Projects: <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a> and <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group)</li>
  	<li>Partners: <a href="https://www.primetals.com/">Primetals Technologies</a>, <a href="https://www.cdg.ac.at/">Christian Doppler Forschungsgesellschaft</a></li>
  	<li>Publications/Further Information:</li>
@@ -109,7 +109,7 @@ LIT CPS Lab (CPSforEP Group)</li>
 
 <b>Clone Detection in 4diac/IEC 61499 (Bachleor Thesis Elene Kutsia)</b>
 <ul>
- 	<li>Elene Kutsia, Lisa Sonnleithner, Markus Unterdechler, Michael Oberlehner, Ernst Blecha, Alois Zoitl, Rick Rabiser</li>
+ 	<li>Elene Kutsia, Lisa Sonnleithner, Markus Unterdechler, Michael Oberlehner, Ernst Blecha, Antonio Gutierrez, Alois Zoitl, Rick Rabiser</li>
  	<li>JKU Projects: <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a> and <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group)</li>
  	<li>Partners: <a href="https://www.primetals.com/">Primetals Technologies</a>, <a href="https://www.cdg.ac.at/">Christian Doppler Forschungsgesellschaft</a></li>
  	<li>Publications/Further Information:</li>
