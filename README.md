@@ -184,7 +184,7 @@ I have no explicit office hours, but if you need anything, e.g., information on 
 <b>REMINDS Open Source</b>
 <ul>
  	<li>Dario Romano, Michael Vierhauser, Paul Grünbacher, Rick Rabiser</li>
- 	<li>JKU Projects: <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group), <a href="https://www.jku.at/en/institute-of-software-systems-engineering">ISSE</a></li>
+ 	<li>JKU Projects: <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group), <a href="https://mevss.jku.at">CDL MEVSS</a>, <a href="https://www.jku.at/en/institute-of-software-systems-engineering">ISSE</a></li>
  	<li>Partners: Primetals Technologies</li>
  	<li>Publications/Further Information:</li>
 <ul>
@@ -223,7 +223,7 @@ I have no explicit office hours, but if you need anything, e.g., information on 
 <b>Usability Studies of Software Engineering Tools</b>
 <ul>
  	<li>Paul Grünbacher, Rick Rabiser</li>
- 	<li>JKU Projects: <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group), <a href="https://www.jku.at/en/institute-of-software-systems-engineering">ISSE</a>, <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
+ 	<li>JKU Projects: <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group), <a href="https://mevss.jku.at">CDL MEVSS</a>, <a href="https://www.jku.at/en/institute-of-software-systems-engineering">ISSE</a>, <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
  	<li>Publications/Further Information:</li>
 <ul>
  	<li>B. Wiesmayr, A. Zoitl, and R. Rabiser: Assessing the Usefulness of a Visual Programming IDE for Large-Scale Automation Software. ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MODELS), IEEE, 2021.</li>
