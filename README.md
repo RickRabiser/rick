@@ -216,6 +216,11 @@ I have no explicit office hours, but if you need anything, e.g., information on 
  	<li>Control Software Architecture</li>
  	<li>Assessment of modularity and reuse using quality indicators</li>
  	<li>Conduction of international questionnaire studies</li>
+	<ul>
+	<li>
+	B. Vogel-Heuser, E.-M. Neumann, A. Zoitl, A. M. Gutierrez Fernandez, R. Rabiser, H. S. Fadhlillah: An International Case Study on Control Software Development in Large-Scale Plant Manufacturing Companies of One Industrial Sector at Different Locations. Proc. of the 47th Annual Conference of the IEEE Industrial Electronics Society (IECON), IEEE, 2021. (accepted for publication)
+	</li>
+	</ul>
 	<li><a href="https://tc.ifac-control.org/3/1">IFAC TC 3.1</a></li>
 </ul>
 </ul>
