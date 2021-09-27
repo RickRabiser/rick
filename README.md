@@ -48,6 +48,10 @@ I have no explicit office hours, but if you need anything, e.g., information on 
 <img src="https://raw.githubusercontent.com/RickRabiser/rick/master/assets/wordcloud.png" alt="word cloud">
 (generated <a href="https://www.jasondavies.com/wordcloud/">here</a>)
 
+## Twitter Feed
+
+<a class="twitter-timeline" href="https://twitter.com/RickRabiser?ref_src=twsrc%5Etfw">Tweets by RickRabiser</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Current Work/Projects/Collaborations
 (last update: Aug 12, 2021)
 
