@@ -19,28 +19,30 @@ I have no explicit office hours, but if you need anything, e.g., information on 
 ## Research Interests
 
 <ul>
- 	<li>Variability Management and Systems and Software Product Lines</li>
- 	<li>Software Maintenance and Evolution</li>
- 	<li>Automated Software Engineering</li>
- 	<li>Requirements Engineering</li>
- 	<li>Requirements Monitoring</li>
- 	<li>Usability and User Interface Design</li>
- 	<li>Industry/Academia Collaborations</li>
-  <li>Cyber-Physical Systems</li>
+ <li>Variability Modeling/Management and Software Product Lines</li>
+ <li>Software Architecture (Quality) and Modularization</li>
+ <li>Software Reuse</li>
+ <li>Software Maintenance and Software Evolution</li>
+ <li>Real-World Case Studies (with Industry and Open Source Systems)</li>
+ <li>Industry-Academia Collaboration</li>
+ <li>Usability Studies (of (Software) Engineering Tools)</li>
+ <li>Cyber-Physical (Production) Systems</li>
+ <li>Distributed Software Architectures and Handling of Data</li>
+ <li>Systematic Literature Studies and Building Bodies of Knowledge</li>
 </ul>
 
 ## Expertise
 
 <ul>
- 	<li>Systems and Software Product Lines</li>
- 	<li>Variability Modeling and Management</li>
- 	<li>(User-Centered) Product Derivation</li>
- 	<li>(Systematic) Literature Studies and Surveys</li>
- 	<li>Usability Studies/User Studies</li>
- 	<li>Industry-Academia Collaboration</li>
- 	<li>Monitoring of Software(-intensive) Systems</li>
- 	<li>Domain-Specific Languages</li>
-  <li>Cyber-Physical Systems</li>
+ <li>Systems and Software Product Lines</li>
+ <li>Variability Modeling and Management</li>
+ <li>(User-Centered) Product Configuration/Derivation</li>
+ <li>(Systematic) Literature Studies and Surveys</li>
+ <li>Usability Studies/User Studies</li>
+ <li>Industry-Academia Collaboration</li>
+ <li>Monitoring of Software(-intensive) Systems</li>
+ <li>Domain-Specific Languages</li>
+ <li>Cyber-Physical Systems</li>
 </ul>
 
 ## Word Cloud of my publication titles
