@@ -39,10 +39,14 @@ I have no explicit office hours, but if you need anything, e.g., information on 
  <li>(User-Centered) Product Configuration/Derivation</li>
  <li>(Systematic) Literature Studies and Surveys</li>
  <li>Usability Studies/User Studies</li>
- <li>Industry-Academia Collaboration</li>
+ <li>Industry-Academia Collaboration and Case Studies</li>
  <li>Monitoring of Software(-intensive) Systems</li>
  <li>Domain-Specific Languages</li>
- <li>Cyber-Physical Systems</li>
+ <li>Software Architectures/Design and Modularization</li>
+ <li>Cyber-Physical (Production) Systems</li>
+ <li>Algorithms and Data Structures</li>
+ <li>Object-oriented Programming/Design</li>
+ <li>Requirements Engineering</li>
 </ul>
 
 ## Word Cloud of my publication titles
