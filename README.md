@@ -18,6 +18,7 @@ I have no explicit office hours, but if you need anything, e.g., information on 
 
 ## Research Interests
 
+I'm interested in Software Engineering (research), especially on:
 <ul>
  <li>Variability Modeling/Management and Software Product Lines</li>
  <li>Software Architecture (Quality) and Modularization</li>
@@ -26,13 +27,14 @@ I have no explicit office hours, but if you need anything, e.g., information on 
  <li>Real-World Case Studies (with Industry and Open Source Systems)</li>
  <li>Industry-Academia Collaboration</li>
  <li>Usability Studies (of (Software) Engineering Tools)</li>
- <li>Cyber-Physical (Production) Systems</li>
+ <li>SE in Cyber-Physical (Production) Systems</li>
  <li>Distributed Software Architectures and Handling of Data</li>
  <li>Systematic Literature Studies and Building Bodies of Knowledge</li>
 </ul>
 
 ## Expertise
 
+I'm an expert in Software Engineering (research), especially in:
 <ul>
  <li>Systems and Software Product Lines</li>
  <li>Variability Modeling and Management</li>
@@ -43,7 +45,7 @@ I have no explicit office hours, but if you need anything, e.g., information on 
  <li>Monitoring of Software(-intensive) Systems</li>
  <li>Domain-Specific Languages</li>
  <li>Software Architectures/Design and Modularization</li>
- <li>Cyber-Physical (Production) Systems</li>
+ <li>SE in Cyber-Physical (Production) Systems</li>
  <li>Algorithms and Data Structures</li>
  <li>Object-oriented Programming/Design</li>
  <li>Requirements Engineering</li>
