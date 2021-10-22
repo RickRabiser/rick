@@ -81,7 +81,7 @@ I'm an expert in Software Engineering (research), especially in:
  	<li>Partners: <a href="https://www.primetals.com/">Primetals Technologies</a>, <a href="https://www.cdg.ac.at/">Christian Doppler Forschungsgesellschaft</a></li>
  	<li>Publications/Further Information:</li>
 <ul>
- 	<li>H. S. Fadhlillah, K. Feichtinger, L. Sonnleithner, R. Rabiser, and A. Zoitl: Towards Heterogeneous Multi-Dimensional Variability Modeling in Cyber-Physical Production Systems. 4th Intl. Workshop on Variability and Evolution of Software-intensive Systems (VariVolution), 25th ACM International Systems and Software Product Line Conference (SPLC 2021), ACM, 2021.</li>
+ 	<li>H. S. Fadhlillah, K. Feichtinger, L. Sonnleithner, R. Rabiser, and A. Zoitl: <a href="https://doi.org/10.1145/3461002.3473941">Towards Heterogeneous Multi-Dimensional Variability Modeling in Cyber-Physical Production Systems</a>. 4th Intl. Workshop on Variability and Evolution of Software-intensive Systems (VariVolution), 25th ACM International Systems and Software Product Line Conference (SPLC 2021), ACM, 2021.</li>
 	<li>H. S. Fadhlillah, B. Wiesmayr, M. Oberlehner, R. Rabiser, and A. Zoitl: Towards Delta-Oriented Variability Modeling for IEC 61499. 26th International Conference on Emerging Technologies and Factory Automation (ETFA), IEEE, 2021.</li>
 	<li>R. Rabiser and A. Zoitl: <a href="https://doi.org/10.1016/j.procs.2021.01.128">Towards Mastering Variability in Software-Intensive Cyber-Physical Production Systems</a>. Procedia Computer Science, 2nd International Conference on Industry 4.0 and Smart Manufacturing (ISM 2020), vol. 180, pp. 50-59, 2021.</li>
 	<li><a href="https://www.jku.at/en/cdl-vasics/">CDL VaSiCS</a></li>
@@ -132,7 +132,7 @@ I'm an expert in Software Engineering (research), especially in:
  	<li>Cooperation with: TU Vienna</li>
  	<li>Publications/Further Information:</li>
 <ul>
- 	<li>K. Feichtinger, K. Meixner, R. Rabiser, and S. Biffl: A Systematic Study as Foundation for a Variability Modeling Body of Knowledge. 47th EUROMICRO Conference on Software Engineering and Advanced Applications (SEAA), IEEE, 2021.</li>
+ 	<li>K. Feichtinger, K. Meixner, R. Rabiser, and S. Biffl: <a href="https://dx.doi.org/10.1109/SEAA53835.2021.00012">A Systematic Study as Foundation for a Variability Modeling Body of Knowledge</a>. 47th EUROMICRO Conference on Software Engineering and Advanced Applications (SEAA), IEEE, 2021.</li>
  	<li><a href="https://github.com/SECPS/VMBoK">VarBoK</a></li>
 </ul>
 </ul>
@@ -144,7 +144,7 @@ I'm an expert in Software Engineering (research), especially in:
  	<li>Cooperation with: TU Vienna</li>
  	<li>Publications/Further Information:</li>
 <ul>
- 	<li>K. Meixner, K. Feichtinger, R. Rabiser, and S. Biffl: A Reusable Set of Real-World Product Line Case Studies for Comparing Variability Models in Research and Practice. 4th Workshop on Experiences and Empirical Studies on Software Reuse (WEESR), 25th ACM International Systems and Software Product Line Conference (SPLC 2021), ACM, 2021.</li>
+ 	<li>K. Meixner, K. Feichtinger, R. Rabiser, and S. Biffl: <a href="https://doi.org/10.1145/3461002.3473946">A Reusable Set of Real-World Product Line Case Studies for Comparing Variability Models in Research and Practice</a>. 4th Workshop on Experiences and Empirical Studies on Software Reuse (WEESR), 25th ACM International Systems and Software Product Line Conference (SPLC 2021), ACM, 2021.</li>
  	<li><a href="https://github.com/tuw-qse/cpps-var-case-studies">Case Studies</a></li>
 </ul>
 </ul>
@@ -168,7 +168,7 @@ I'm an expert in Software Engineering (research), especially in:
  	<li>Publications/Further Information:</li>
 <ul>
  	<li>D. Benavides, R. Rabiser, D. Batory, and M. Acher: <a href="https://doi.org/10.1145/3336294.3342364">First International Workshop on Languages for Modelling Variability (MODEVAR 2019)</a>. 23rd International Systems and Software Product Line Conference, ACM, 2019.</li>
-	<li>C. Sundermann, K. Feichtinger, D. Engelhardt, R. Rabiser, and T. Thüm: Yet Another Textual Variability Language? A Community Effort Towards a Unified Language. 25th International Systems and Software Product Line Conference (SPLC 2021), ACM, 2021.</li>
+	<li>C. Sundermann, K. Feichtinger, D. Engelhardt, R. Rabiser, and T. Thüm: <a href="https://doi.org/10.1145/3461001.3471145">Yet Another Textual Variability Language? A Community Effort Towards a Unified Language</a>. 25th International Systems and Software Product Line Conference (SPLC 2021), ACM, 2021.</li>
 	<li><a href="https://modevar.github.io">MODEVAR Homepage</a></li>
 	<li><a href="https://github.com/Universal-Variability-Language">UVL</a></li>
 	<li><a href="https://doi.org/10.5281/zenodo.5031828">UVL Model Repository</a></li>
@@ -184,7 +184,7 @@ I'm an expert in Software Engineering (research), especially in:
 <ul>
  	<li>R. Rabiser, K. Schmid, M. Becker, G. Botterweck, M. Galster, I. Groher, and D. Weyns: <a href="https://doi.org/10.1145/3233027.3233028">A Study and Comparison of Industrial vs. Academic Software Product Line Research Published at SPLC</a>, 22nd International Systems and Software Product Line Conference (SPLC 2018),  ACM, 2018, pp. 14-24.</li>
  	<li>R. Rabiser, K. Schmid, M. Becker, G. Botterweck, M. Galster, I. Groher, and D. Weyns: <a href="https://doi.org/10.1145/3336294.3336310">Industrial and Academic Software Product Line Research at SPLC: Perceptions of the Community</a>, 23rd International Systems and Software Product Line Conference, ACM, 2019, pp. 189-194.</li>
- 	<li>K. Schmid, R. Rabiser, M. Becker, G. Botterweck, M. Galster, I. Groher, and D. Weyns: Bridging the Gap: Voices from Industry and Research on Industrial Relevance of SPLC, 25th International Systems and Software Product Line Conference, ACM, 2021.</li>
+ 	<li>K. Schmid, R. Rabiser, M. Becker, G. Botterweck, M. Galster, I. Groher, and D. Weyns: <a href="https://doi.org/10.1145/3461001.3474301">Bridging the Gap: Voices from Industry and Research on Industrial Relevance of SPLC</a>, 25th International Systems and Software Product Line Conference, ACM, 2021.</li>
 	<li><a href="https://splc.net/">SPLC</a></li>
 </ul>
 </ul>
@@ -239,7 +239,7 @@ I'm an expert in Software Engineering (research), especially in:
  	<li>JKU Projects: <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group), <a href="https://mevss.jku.at">CDL MEVSS</a>, <a href="https://www.jku.at/en/institute-of-software-systems-engineering">ISSE</a>, <a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
  	<li>Publications/Further Information:</li>
 <ul>
- 	<li>B. Wiesmayr, A. Zoitl, and R. Rabiser: Assessing the Usefulness of a Visual Programming IDE for Large-Scale Automation Software. ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MODELS), IEEE, 2021.</li>
+ 	<li>B. Wiesmayr, A. Zoitl, and R. Rabiser: <a href="https://doi.org/10.1109/MODELS50736.2021.00037">Assessing the Usefulness of a Visual Programming IDE for Large-Scale Automation Software</a>. ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MODELS), IEEE, 2021.</li>
  	<li>L. M. Kritzinger, T. Krismayer, R. Rabiser, and P. Grünbacher: <a href="https://doi.org/10.1109/VISSOFT.2019.00015">A User Study on the Usefulness of Visualization Support for Requirements Monitoring</a>. 7th IEEE Working Conference on Software Visualization (VISSOFT), IEEE, 2019, pp. 56-66.</li>
  	<li>R. Rabiser, M. Vierhauser, and P. Grünbacher: <a href="https://doi.org/10.1145/2889160.2889234">Assessing the Usefulness of a Requirements Monitoring Tool: A Study Involving Industrial Software Engineers</a>. 38th International Conference on Software Engineering (ICSE 2016), SEIP Track, ACM, 2016, pp. 122-131.</li>
  	<li>R. Rabiser, P. Grünbacher, and M. Lehofer: <a href="https://doi.org/10.1145/2351676.2351693">A Qualitative Study on User Guidance Capabilities in Product Configuration Tools</a>. 27th IEEE/ACM International Conference Automated Software Engineering (ASE 2012), ACM, 2012, pp. 110-119.</li>
