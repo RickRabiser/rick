@@ -370,7 +370,8 @@ vol. 52(3), pp. 324-346, 2010"</li>
 ### Other/Misc
 
 <ul>
- 	<li><a href="https://www.jku.at/schule/jku-young-scientists/informatik/">JKU Young Computer Scientists</a> -- Program Manager</li>
+	<li><a href="https://www.jku.at/en/faculty-of-engineering-natural-sciences/organization/faculty-assembly/">Speaker for University Professors at the Faculty of Engineering & Natural Sciences</a></li>
+	<li><a href="https://www.jku.at/schule/jku-young-scientists/informatik/">JKU Young Computer Scientists</a> -- Program Manager</li>
  	<li>Professional Member of <a href="http://www.acm.org">ACM</a></li>
  	<li>Member of <a href="http://euromicro.org/">Euromicro</a></li>
  	<li>Member of the Euromicro Board of Directors (Director for Austria)</li>
