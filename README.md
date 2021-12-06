@@ -299,7 +299,8 @@ I'm an expert in Software Engineering (research), especially in:
 <ul>
  <li><a href="https://www.software-quality-days.com/">Software Quality Days 2022, Jan 18-20, 2022, Vienna, Austria</a></li>
  <li><a href="https://vamos2022.isti.cnr.it/">VaMoS 2022, Feb 23-25, 2022, Pisa, Italy</a></li>
- <li><a href="https://www.se-2022.de/">SE 2022, Feb 21-25, Berlin. Germany</a></li>
+ <li><a href="https://www.se-2022.de/">SE 2022, Feb 21-25, Berlin, Germany</a></li>
+ <li><a href="https://www.splc2022.net">SPLC 2022, Sept 12-16, Graz, Austria</a></li>
 </ul>
 
 ## Services for Research Communities
