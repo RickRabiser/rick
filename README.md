@@ -301,7 +301,7 @@ I'm an expert in Software Engineering (research), especially in:
  <li><a href="https://vamos2022.isti.cnr.it/">VaMoS 2022, Feb 23-25, 2022, Pisa, Italy</a></li>
  <li><a href="https://www.se-2022.de/">SE 2022, Feb 21-25, Berlin, Germany</a></li>
  <li><a href="https://dsd-seaa2022.iuma.ulpgc.es/">SEAA 2022, Aug 31-Sept 2, Gran Canaria, Spain</a></li>
- <li><a href="https://www.splc2022.net">SPLC 2022, Sept 12-16, Graz, Austria</a></li>
+ <li><a href="http://2022.splc.net/">SPLC 2022, Sept 12-16, Graz, Austria</a></li>
 </ul>
 
 ## Services for Research Communities
