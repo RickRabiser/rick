@@ -259,7 +259,7 @@ I'm an expert in Software Engineering (research), especially in:
 
 <b>JKU/Dynatrace Co-Innovation Lab</b>
 <ul>
- 	<li>Rick Rabiser, Dario Romano, 2 Post-Docs (full time) to be hired</li>
+ 	<li>Rick Rabiser, 2 Post-Docs (full time) to be hired</li>
 	<li>JKU Projects: <a href="https://www.jku.at/en/lit-cyber-physical-systems-lab/research/research-projects/co-innovation-lab-1">Co-Innovation Lab</a>, <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group)</li>
  	<li>Partners: JKU, Dynatrace Austria</li>
  	<li>Publications/Further Information:</li>
@@ -381,7 +381,7 @@ vol. 52(3), pp. 324-346, 2010"</li>
  <li><a href="https://www.journals.elsevier.com/journal-of-systems-and-software/most-cited-articles">Journal of Systems and Software Most Cited Article since 2017 </a> (Aug 2020) for <a href="https://doi.org/10.1016/j.jss.2016.12.034">R. Rabiser, S. Guinea, M. Vierhauser, L. Baresi, and P. Grünbacher: A Comparison Framework for Runtime Monitoring Approaches. Journal of Systems and Software, vol. 125, pp. 309-321, 2017.</a></li>
 </ul>
 
-### Other/Misc
+### Positions/Memberships
 
 <ul>
 	<li><a href="https://www.jku.at/en/faculty-of-engineering-natural-sciences/organization/faculty-assembly/">Speaker for University Professors at the Faculty of Engineering & Natural Sciences</a></li>
