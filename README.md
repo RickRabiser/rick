@@ -303,7 +303,7 @@ I'm an expert in Software Engineering (research), especially in:
  <li><a href="https://sites.google.com/view/varivolution2022">VariVolution@SPLC 2022, Sept 12-16, Graz, Austria</a></li>
  <li><a href="https://modevar.github.io/">MODEVAR@SPLC 2022, Sept 12-16, Graz, Austria</a></li>
  <li><a href="https://weesr.github.io/">WEESR@SPLC 2022, Sept 12-16, Graz, Austria</a></li>
- <li><a href="https://sasi4gh.github.io/sasi4/">SASI4@ETFA 2022, Sept 19-23, Prague, Czech Republic</a></li>	
+ <li><a href="https://sasi4gh.github.io/sasi4/">SASI4@ECSA 2022, Sept 19-23, Prague, Czech Republic</a></li>	
 </ul>
 
 ## Services for Research Communities
