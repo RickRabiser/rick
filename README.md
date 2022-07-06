@@ -59,8 +59,8 @@ I'm an expert in Software Engineering (research), especially in:
 
 <b>Christian Doppler Laboratory for Mastering Variability in Software-Intensive Cyber-Physical Production Systems (CDL VaSiCS)</b>
 <ul>
- 	<li>Partners: Primetals Technologies Austria GmbH</a>
-	<li>Staff: 8+
+ 	<li>Partners: Primetals Technologies Austria GmbH</a></li>
+	<li>Staff: 8+</li>
  	<li>The CD Lab aims to conduct applied basic research focusing on methodological support for mastering variability in Software-Intensive Cyber-Physical Production Systems (CPPS).</li>
 	<li><a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
 	<li><a href="https://www.jku.at/en/cdl-vasics/research/current-work/">Current Work</a></li>
