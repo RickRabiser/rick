@@ -55,7 +55,7 @@ I'm an expert in Software Engineering (research), especially in:
 <img src="https://raw.githubusercontent.com/RickRabiser/rick/master/assets/wordcloud.png" alt="word cloud">
 (generated <a href="https://www.jasondavies.com/wordcloud/">here</a>)
 
-## Current Work/Projects
+## Current Projects
 
 <b>Christian Doppler Laboratory for Mastering Variability in Software-Intensive Cyber-Physical Production Systems (CDL VaSiCS)</b>
 <ul>
@@ -68,12 +68,6 @@ I'm an expert in Software Engineering (research), especially in:
 	<li><a href="https://www.jku.at/en/cdl-vasics/research/current-work/">Current Work</a></li>
 </ul>
 </ul>
-
-
-<a href="https://www.jku.at/en/cdl-vasics/research/current-work/">I have a regularily updated list of current work on the homepage of our CD lab.</a>
-
-
-Additionally:
 
 <b>JKU/Dynatrace Co-Innovation Lab</b>
 <ul>
