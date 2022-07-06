@@ -55,15 +55,29 @@ I'm an expert in Software Engineering (research), especially in:
 <img src="https://raw.githubusercontent.com/RickRabiser/rick/master/assets/wordcloud.png" alt="word cloud">
 (generated <a href="https://www.jasondavies.com/wordcloud/">here</a>)
 
-## Current Work/Projects/Collaborations
+## Current Work/Projects
+
+<b>Christian Doppler Laboratory for Mastering Variability in Software-Intensive Cyber-Physical Production Systems (CDL VaSiCS)</b>
+<ul>
+ 	<li>Partners: Primetals Technologies Austria GmbH</a>
+	<li>Staff: 8+
+ 	<li>Further Information:</li>
+<ul>
+ 	<li>The CD Lab aims to conduct applied basic research focusing on methodological support for mastering variability in Software-Intensive Cyber-Physical Production Systems (CPPS).</li>
+	<li><a href="https://www.jku.at/cdl-vasics/">Co-Innovation Lab</a></li>
+	<li><a href="https://www.jku.at/en/cdl-vasics/research/current-work/">Current Work</a></li>
+</ul>
+</ul>
+
 
 <a href="https://www.jku.at/en/cdl-vasics/research/current-work/">I have a regularily updated list of current work on the homepage of our CD lab.</a>
+
 
 Additionally:
 
 <b>JKU/Dynatrace Co-Innovation Lab</b>
 <ul>
- 	<li>Rick Rabiser, 2 Post-Docs (full time) to be hired</li>
+ 	<li>Staff: Rick Rabiser, 2 Post-docs (full time) to be hired</li>
 	<li>JKU Projects: <a href="https://www.jku.at/en/lit-cyber-physical-systems-lab/research/research-projects/co-innovation-lab-1">Co-Innovation Lab</a>, <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group)</li>
  	<li>Partners: JKU, Dynatrace Austria</li>
  	<li>Publications/Further Information:</li>
