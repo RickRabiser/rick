@@ -4,7 +4,7 @@ Univ.-Prof. Mag. Dr. (<a href="https://github.com/RickRabiser/rick/raw/master/as
 
 Email: rick--dot--rabiser--at--jku--dot--at<br/>
 Phone: +43 732 2468 4363<br/>
-Adminstrative Assistant: Ursula Schwarzgruber<br/>
+Administrative Assistant: Ursula Schwarzgruber<br/>
 Email: ursula--dot--schwarzgruber--at--jku--dot--at<br/>
 Phone: +43 732 2468 9494<br/>
 Office: <a href="https://www.jku.at/linz-institute-of-technology/das-lit/lit-open-innovation-center/">LIT Open Innovation Center</a> (ground floor)<br/>
