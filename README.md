@@ -64,7 +64,7 @@ I'm an expert in Software Engineering (research), especially in:
  	<li>Further Information:</li>
 <ul>
  	<li>The CD Lab aims to conduct applied basic research focusing on methodological support for mastering variability in Software-Intensive Cyber-Physical Production Systems (CPPS).</li>
-	<li><a href="https://www.jku.at/cdl-vasics/">Co-Innovation Lab</a></li>
+	<li><a href="https://www.jku.at/cdl-vasics/">CDL VaSiCS</a></li>
 	<li><a href="https://www.jku.at/en/cdl-vasics/research/current-work/">Current Work</a></li>
 </ul>
 </ul>
