@@ -71,9 +71,9 @@ I'm an expert in Software Engineering (research), especially in:
 
 <b>JKU/Dynatrace Co-Innovation Lab</b>
 <ul>
+		<li>Partners: JKU, Dynatrace Austria</li>
  	<li>Staff: Rick Rabiser, 2 Post-docs (full time) to be hired</li>
 	<li>JKU Projects: <a href="https://www.jku.at/en/lit-cyber-physical-systems-lab/research/research-projects/co-innovation-lab-1">Co-Innovation Lab</a>, <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group)</li>
- 	<li>Partners: JKU, Dynatrace Austria</li>
  	<li>Publications/Further Information:</li>
 <ul>
  	<li>The aim of this lab is to perform trans-disciplinary, original scientific research between industry and academia on recent computer science topics, particularly from the areas of software engineering, artificial intelligence, and data science.</li>
