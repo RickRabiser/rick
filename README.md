@@ -102,15 +102,8 @@ I'm an expert in Software Engineering (research), especially in:
 <em>As a member of the steering, organizing, program (and/or other) committees for these events I cordially invite you to submit your research to: </em>
 
 <ul>
- <li><a href="https://dsd-seaa2022.iuma.ulpgc.es/">SEAA 2022, Aug 31-Sept 2, Gran Canaria, Spain</a></li>
- <li><a href="http://2022.splc.net/">SPLC 2022, Sept 12-16, Graz, Austria</a></li>
- <li><a href="https://judithmichael.github.io/mopro22/cfp/">MoPro'22, Jun 27, Hamburg, Germany</a></li>
- <li><a href="https://td4vis.github.io/2022/">TD4ViS@SPLC 2022, Sept 12-16, Graz, Austria</a></li>
- <li><a href="https://sites.google.com/view/varivolution2022">VariVolution@SPLC 2022, Sept 12-16, Graz, Austria</a></li>
- <li><a href="https://modevar.github.io/">MODEVAR@SPLC 2022, Sept 12-16, Graz, Austria</a></li>
- <li><a href="https://weesr.github.io/">WEESR@SPLC 2022, Sept 12-16, Graz, Austria</a></li>
- <li><a href="https://sasi4gh.github.io/sasi4/">SASI4@ECSA 2022, Sept 19-23, Prague, Czech Republic</a></li>	
- <li><a href="https://www.software-quality-days.com/">Software Quality Days, May 23-25, Munich, Germany</a></li>
+ <li><a href="https://www.software-quality-days.com/">Software Quality Days 2023, May 23-25, Munich, Germany</a></li>
+ <li><a href="https://www.seuh.org/seuh2023/">SEUH 2023, Feb 22-24 Paderborn, Germany.</a>
 </ul>
 
 ## Services for Research Communities
