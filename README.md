@@ -104,10 +104,8 @@ I'm an expert in Software Engineering (research), especially in:
 <em>As a member of the steering, organizing, program (and/or other) committees for these events I cordially invite you to submit your research to: </em>
 
 <ul>
- 
- <li><a href="https://vamos2023.sdu.dk/">VaMoS 2023, Jan 25-27, Odense, Denmark.</a></li>
- <li><a href="https://www.seuh.org/seuh2023/">SEUH 2023, Feb 22-24, Paderborn, Germany.</a></li>
- <li><a href="https://www.software-quality-days.com/">Software Quality Days 2023, May 23-25, Munich, Germany</a></li>
+ <li><a href="https://2023.splc.net/">SPLC 2023, Aug 28-Sept 1, Tokyo, Japan.</a></li>
+ <li><a href="https://2023.splc.net/calls/call-for-doctoral-symposium-papers/">SPLC 2023 Doctoral Symposium, Aug 28-Sept 1, Tokyo, Japan.</a></li>
 </ul>
 
 ## Services for Research Communities
