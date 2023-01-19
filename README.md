@@ -106,6 +106,8 @@ I'm an expert in Software Engineering (research), especially in:
 <ul>
  <li><a href="https://2023.splc.net/">SPLC 2023, Aug 28-Sept 1, Tokyo, Japan.</a></li>
  <li><a href="https://2023.splc.net/calls/call-for-doctoral-symposium-papers/">SPLC 2023 Doctoral Symposium, Aug 28-Sept 1, Tokyo, Japan.</a></li>
+ <li><a href="https://dsd-seaa2023.com/seaa/">Euromicro SEAA 2023, Sept 6-8, Durres, Albania.</a></li>
+ <li><a href="https://2023.ieee-etfa.org/">ETFA 2023, Sept 12-15, Sinaia, Romania.</a></li>
 </ul>
 
 ## Services for Research Communities
