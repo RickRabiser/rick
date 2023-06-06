@@ -115,6 +115,7 @@ I'm an expert in Software Engineering (research), especially in:
  <li><a href="https://dsd-seaa2023.com/seaa/">Euromicro SEAA 2023, Sept 6-8, Durres, Albania.</a></li>
  <li><a href="https://2023.ieee-etfa.org/">ETFA 2023, Sept 12-15, Sinaia, Romania.</a></li>
  <li><a href="https://vamos2024.inf.unibe.ch/">VaMoS 2024, Feb 7-9, Bern, Switzerland.</a></li>	
+ <li><a href="https://se2024.se.jku.at/">Software Engineering 2024, Feb 26-Mar1, Linz, Austria.</a></li>
 </ul>
 
 ## Services for Research Communities
