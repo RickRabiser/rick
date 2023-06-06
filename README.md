@@ -11,6 +11,10 @@ Office: <a href="https://www.jku.at/linz-institute-of-technology/das-lit/lit-ope
 
 <a href="https://twitter.com/RickRabiser" alt="Twitter"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png"></a> <a href="https://www.linkedin.com/in/rick-rabiser-a1437913/" alt="Linkedin"><img src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
 
+## News
+
+<img src="https://se2024.se.jku.at/wp-content/uploads/2023/03/Logos_SE_24.png">Together with Prof. Manuel Wimmer, I am General Chair of the <a href="https://se2024.se.jku.at/">Software Engineering 2024</a> Conference. Die jährlich stattfindende Tagung Software Engineering (SE) des <a href="https://fb-swt.gi.de/">Fachbereichs Softwaretechnik</a> der <a href="https://gi.de/">Gesellschaft für Informatik</a> dient als Plattform für den Austausch von Erfahrungen und Erkenntnissen aus dem Bereich der Softwaretechnik. Die Tagung richtet sich sowohl an Softwareentwickler und Softwareentwicklerinnen aus der Praxis, als auch an Forscherinnen und Forscher aus dem akademischen Umfeld. Das wissenschaftliche Hauptprogramm wird sich wieder aus Vorträgen zu bereits publizierten Artikeln in renommierten internationalen Journalen oder Konferenzen zusammensetzen. Damit bieten wir sozusagen ein "Best of" der Publikationen der Forschergruppen im deutschsprachigen Raum. Wir tragen damit zum wissenschaftlichen Diskurs bei und erhöhen die Sichtbarkeit der Beiträge.
+
 ## Information for Students
 
 I have no explicit office hours, but if you need anything, e.g., information on the courses I teach or about available projects, Bachelor's theses, and Master's theses, or just want to chat, do not hesitate to contact me via e-mail at any time and we will arrange an appointment. Information on courses is available in <a href="http://kusss.jku.at">KUSSS</a>.
