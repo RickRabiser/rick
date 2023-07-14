@@ -62,6 +62,7 @@ I'm an expert in Software Engineering (research), especially in:
 (generated <a href="https://www.jasondavies.com/wordcloud/">here</a>)
 
 ## Current Projects
+(also see <a href="https://www.jku.at/en/cdl-vasics/research/current-work/">Current Work</a>)
 
 <b>Christian Doppler Laboratory for Mastering Variability in Software-Intensive Cyber-Physical Production Systems (CDL VaSiCS)</b>
 <ul>
