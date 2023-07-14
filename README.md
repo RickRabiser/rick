@@ -84,6 +84,15 @@ I'm an expert in Software Engineering (research), especially in:
 	<li><a href="https://engineering.dynatrace.com/research/">Dynatrace Research</a></li>
 </ul>	
 
+<b>Software Engineering in Cyber-Physical Production Systems</b>
+<ul>
+	<li>Feb 2021-...</li>
+ 	<li>Partners: JKU, TU München, Universität Stuttgart, TU Wien, and many more</li>
+	<li>Community: 50+</li>
+ 	<li>The workshop series and community on Software Engineering in Cyber-Physical Production Systems (SECPPS) aims to discuss new approaches and methods for the design of software for use in the production systems domain, which follows the latest trends from the software engineering domain. Additionally, the workshop will address the challenges in adopting state-of-the-art software engineering tools and techniques to the automation domain and discuss various approaches to tackle the issues. Particularly, we are currently facing a dramatically increasing complexity in the development and operation of systems with the emergence of Cyber-Physical Production Systems (CPPS). This demands for more comprehensive and systematic views on all aspects of systems (e.g., mechanics, electronics, software, and network) not only in the engineering process, but in the operation process as well. Moreover, flexible approaches are needed to adapt the systems’ behavior to ever-changing requirements and tasks, unexpected conditions, as well as structural transformations.</li>
+	<li><a href="https://rickrabiser.github.io/secpps-ws/">SECPPS Homepage</a></li>
+</ul>
+
 ## Links
 
 <ul>
