@@ -133,6 +133,8 @@ I'm an expert in Software Engineering (research), especially in:
 <ul>
   <li><a href="http://www.splc.net">SPLC conferences</a></li>
   <li><a href="http://www.se-konferenzen.de/">SE Konferenzen</a></li>
+  <li><a href="https://modevar.github.io/">MODEVAR Workshop Series</a></li>
+  <li><a href="https://rickrabiser.github.io/secpps-ws/">SECPPS Workshop Series</a></li>
 </ul>
 
 #### Past:
