@@ -122,6 +122,7 @@ I'm an expert in Software Engineering (research), especially in:
 <ul>
  <li><a href="https://vamos2024.inf.unibe.ch/">VaMoS 2024, Feb 7-9, Bern, Switzerland.</a></li>	
  <li><a href="https://se2024.se.jku.at/">Software Engineering 2024, Feb 26-Mar1, Linz, Austria.</a></li>
+ <li><a href="https://cyprusconferences.org/icsr2024/">ICSR 2024, June 10-12  2024, Limassol, Cyprus.</a></li>
 </ul>
 
 ## Services for Research Communities
