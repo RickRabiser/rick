@@ -165,6 +165,7 @@ I'm an expert in Software Engineering (research), especially in:
 	<li><a href="https://dsd-seaa2022.iuma.ulpgc.es/">Euromicro SEAA 2022</a> -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
 	<li><a href="https://dsd-seaa2023.com/seaa/">Euromicro SEAA 2023</a> -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
 	<li><a href="https://se2024.se.jku.at/">SE 2024</a> -- General Co-Chair (with Manuel Wimmer)</li>
+	<li>Euromicro SEAA 2024 -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
 </ul>
 
 ### Reviewer for Journals and Magazines
