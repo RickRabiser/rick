@@ -201,6 +201,7 @@ vol. 52(3), pp. 324-346, 2010"</li>
  <li><a href="https://www.journals.elsevier.com/journal-of-systems-and-software/most-cited-articles">Journal of Systems and Software Most Cited Article since 2017 </a> (Aug 2020) for <a href="https://doi.org/10.1016/j.jss.2016.12.034">R. Rabiser, S. Guinea, M. Vierhauser, L. Baresi, and P. Grünbacher: A Comparison Framework for Runtime Monitoring Approaches. Journal of Systems and Software, vol. 125, pp. 309-321, 2017.</a></li>
 	<li>VaMoS Most Influential Paper Award (Feb 2022) for <a href="https://doi.org/10.1145/2110147.2110167">K. Czarnecki, P. Grünbacher, R. Rabiser, K. Schmid, and A. Wasowski: Cool Features and Tough Decisions: A Comparison of Variability Modeling Approaches. Proc. of the 6th International Workshop on Variability Modeling of Software-Intensive Systems (VaMoS 2012), ACM, 2012, pp. 173-182.</a></li>
 	<li>Nominated (by my team) for the LExA Leadership Excellence Award in Research 2023 (Sept 2023)</li>
+	<li>ICPE Best Industry Paper Award (May 2024) for S. Henning, A. Vogel, M. Leichtfried, O. Ertl, R. Rabiser: <a href="https://doi.org/10.1145/3629526.3645036">ShuffleBench: A Benchmark for Large-Scale Data Shuffling Operations with Distributed Stream Processing Frameworks</a>. 15th ACM/SPEC International Conference on Performance Engineering (ICPE), London, UK, May 7-11, 2024, pp. 2-13.</li>
 </ul>
 
 ### Positions/Memberships
