@@ -120,16 +120,6 @@ I'm an expert in Software Engineering (research), especially in:
  	<li><a href="https://twitter.com/EuromicroOrg">Euromicro Twitter Account</a></li>
 </ul>
 
-## Current Calls
-
-<em>As a member of the steering, organizing, program (and/or other) committees for these events I cordially invite you to submit your research to: </em>
-
-<ul>
- <li><a href="https://vamos2024.inf.unibe.ch/">VaMoS 2024, Feb 7-9, Bern, Switzerland.</a></li>	
- <li><a href="https://se2024.se.jku.at/">Software Engineering 2024, Feb 26-Mar1, Linz, Austria.</a></li>
- <li><a href="https://cyprusconferences.org/icsr2024/">ICSR 2024, June 10-12  2024, Limassol, Cyprus.</a></li>
-</ul>
-
 ## Services for Research Communities
 
 (only recent, please refer to my [CV](https://github.com/RickRabiser/rick/raw/master/assets/CVRR_Web.pdf) for the full list)
