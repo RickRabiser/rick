@@ -122,7 +122,7 @@ I'm an expert in Software Engineering (research), especially in:
 
 ## Services for Research Communities
 
-(only recent, please refer to my [CV](https://github.com/RickRabiser/rick/raw/master/assets/CVRR_Web.pdf) for the full list)
+(only recent, please refer to my [CV](https://www.jku.at/fileadmin/gruppen/357/CVRR_Web.pdf) for the full list)
 
 ### Steering Committee Memberships
 
