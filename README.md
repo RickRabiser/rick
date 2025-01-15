@@ -211,6 +211,7 @@ vol. 52(3), pp. 324-346, 2010"</li>
 	<li><a href="https://www.jku.at/schule/jku-young-scientists/informatik/">JKU Young Computer Scientists</a> -- Program Manager</li>
 	<li>SPLC Hall of Fame (<a href="https://splc.net/fame.html">more information</a>) Judge</li>
  	<li>Professional Member of <a href="http://www.acm.org">ACM</a></li>
+	<li>Vollmitglied der <a href="https://gi.de/">Gesellschaft für Informatik e.V.</a></li>
  	<li>Member of <a href="http://euromicro.org/">Euromicro</a></li>
  	<li>Member of the Euromicro Board of Directors</li>
 </ul>
