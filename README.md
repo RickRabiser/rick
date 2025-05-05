@@ -1,6 +1,8 @@
 ## Welcome to Rick Rabiser's Homepage
 
-Univ.-Prof. Mag. Dr. (<a href="https://www.jku.at/fileadmin/gruppen/357/CVRR_Web.pdf">CV</a>)<img src="https://raw.githubusercontent.com/RickRabiser/rick/master/assets/rabiserBlueWebCropped.jpg" alt="rrabiser" width="247" height="286" align="right"> <br/>Professor for Software Engineering in Cyber-Physical Systems, <br/>Head of the <a title="LIT CPS Lab" href="https://www.jku.at/lit/cps-lab">Cyber-Physical Systems Lab</a>, <br/>Head of the <a title="CDL VaSiCS" href="https://www.jku.at/cdl-vasics/">Christian Doppler Lab VaSiCS</a>, <br/>JKU-Head of the <a title="JKU/Dynatrace Co-Innovation Lab" href="https://www.jku.at/en/lit-cyber-physical-systems-lab/research/research-projects/co-innovation-lab/">JKU/Dynatrace Co-Innovation Lab</a>,<br/><a title="LIT" href="https://www.jku.at/en/linz-institute-of-technology/">Linz Institute of Technology</a>, <br/>Johannes Kepler University Linz, Austria, <br/>Altenberger Strasse 69, A-4040 Linz, Austria 
+Univ.-Prof. Mag. Dr. (<a href="https://www.jku.at/fileadmin/gruppen/357/CVRR_Web.pdf">CV</a>)<img src="https://raw.githubusercontent.com/RickRabiser/rick/master/assets/rabiserBlueWebCropped.jpg" alt="rrabiser" width="247" height="286" align="right"> <br/><br/>
+
+Professor for Software Engineering in Cyber-Physical Systems, <br/>Head of the <a title="LIT CPS Lab" href="https://www.jku.at/lit/cps-lab">Cyber-Physical Systems Lab</a>, <br/>Head of the <a title="CDL VaSiCS" href="https://www.jku.at/cdl-vasics/">Christian Doppler Lab VaSiCS</a>, <br/>JKU-Head of the <a title="JKU/Dynatrace Co-Innovation Lab" href="https://www.jku.at/en/lit-cyber-physical-systems-lab/research/research-projects/co-innovation-lab/">JKU/Dynatrace Co-Innovation Lab</a>,<br/><a title="LIT" href="https://www.jku.at/en/linz-institute-of-technology/">Linz Institute of Technology</a>, <br/>Johannes Kepler University Linz, Austria, <br/>Altenberger Strasse 69, A-4040 Linz, Austria 
 
 Email: rick--dot--rabiser--at--jku--dot--at<br/>
 Phone: +43 732 2468 4363<br/>
@@ -9,7 +11,12 @@ Email: ursula--dot--schwarzgruber--at--jku--dot--at<br/>
 Phone: +43 732 2468 9494<br/>
 Office: <a href="https://www.jku.at/linz-institute-of-technology/das-lit/lit-open-innovation-center/">LIT Open Innovation Center</a> (ground floor)<br/>
 
-<a href="https://twitter.com/RickRabiser" alt="Twitter"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png"></a> <a href="https://www.linkedin.com/in/rick-rabiser-a1437913/" alt="Linkedin"><img src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
+Chief Scientific Officer
+<a href="https://www.scch.at/">Software Competence Center Hagenberg GmbH</a>
+Softwarepark 32a, 4232 Hagenberg, Austria
+rick.rabiser@scch.at
+
+<a href="https://www.linkedin.com/in/rick-rabiser-a1437913/" alt="Linkedin"><img src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
 
 ## Information for Students
 
