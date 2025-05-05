@@ -88,7 +88,7 @@ I'm an expert in Software Engineering (research), especially in:
 
 <b>JKU/Dynatrace Co-Innovation Lab (Period 2)</b>
 <ul>
-	<li>Jan 2025 to Dec 2027</li>
+	<li>Jan 2025 to Dec 2028</li>
 	<li>Partners: JKU, Dynatrace Austria</li>
  	<li>Staff: 2 Post-docs (full time), 1-4 additional TBD</li>
 	<li>JKU Projects: <a href="https://www.jku.at/en/lit-cyber-physical-systems-lab/research/research-projects/co-innovation-lab-1">Co-Innovation Lab</a>, <a href="https://www.jku.at/lit/cps-lab">LIT CPS Lab</a> (SECPS Group)</li>
