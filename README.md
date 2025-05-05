@@ -11,10 +11,10 @@ Email: ursula--dot--schwarzgruber--at--jku--dot--at<br/>
 Phone: +43 732 2468 9494<br/>
 Office: <a href="https://www.jku.at/linz-institute-of-technology/das-lit/lit-open-innovation-center/">LIT Open Innovation Center</a> (ground floor)<br/>
 
-Chief Scientific Officer
-<a href="https://www.scch.at/">Software Competence Center Hagenberg GmbH</a>
-Softwarepark 32a, 4232 Hagenberg, Austria
-rick.rabiser@scch.at
+Chief Scientific Officer<br/>
+<a href="https://www.scch.at/">Software Competence Center Hagenberg GmbH</a><br/>
+Softwarepark 32a, 4232 Hagenberg, Austria<br/>
+rick--dot--rabiser--at--scch---dot--at
 
 <a href="https://www.linkedin.com/in/rick-rabiser-a1437913/" alt="Linkedin"><img src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
 
