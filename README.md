@@ -123,15 +123,9 @@ I'm an expert in Software Engineering (research), especially in:
  	<li><a href="https://twitter.com/RickRabiser">Twitter</a></li>
  	<li><a href="https://fodok.jku.at/fodok/person.xsql?PER_ID=9981">JKU FODOK</a></li>
  	<li><a href="http://euromicro.org">Euromicro</a></li>
- 	<li><a href="https://www.facebook.com/dsdseaa">Euromicro DSD/SEAA Facebook Page</a></li>
- 	<li><a href="https://twitter.com/EuromicroOrg">Euromicro Twitter Account</a></li>
 </ul>
 
-## Services for Research Communities
-
-(only recent, please refer to my [CV](https://www.jku.at/fileadmin/gruppen/357/CVRR_Web.pdf) for the full list)
-
-### Steering Committee Memberships
+## Steering Committee Memberships
 
 <ul>
   <li><a href="http://www.splc.net">SPLC conferences</a></li>
@@ -140,46 +134,11 @@ I'm an expert in Software Engineering (research), especially in:
   <li><a href="https://rickrabiser.github.io/secpps-ws/">SECPPS Workshop Series</a></li>
 </ul>
 
-#### Past:
+### Past:
 
 <ul>
  	<li>(2014-2023) <a title="Euromicro" href="http://www.euromicro.org/cms/index.php/technical-committees/seaa-steering-committee">
    Euromicro SEAA conferences</a></li>
-</ul>
-
-### Program Committee Memberships (only last 5 years)
-
-<a href="http://software-quality-days.com/&quot;">SWQD 2019</a>, <a href="https://vamos2019.github.io/">VaMoS 2019</a>, <a href="http://www.sacvsple.com/">VSPLE Track</a>@<a href="https://www.sigapp.org/sac/sac2019/">SAC 2019</a>, <a href="http://d3s.mff.cuni.cz/conferences/sescps2019/">SEsCPS@ICSE 2019</a>, <a href="http://ksiresearchorg.ipage.com/seke/seke19.html">SEKE 2019</a>, <a href="http://splc2019.net">SPLC 2019</a>, <a href="https://modevar.github.io/">MODEVAR@SPLC 2019</a>, <a href="http://tintotic.com/weesr2019/">WEESR@SPLC 2019</a>, <a href="http://events.disim.univaq.it/SASI4/">SASI4@ECSA 2019</a>, <a href="https://confws19.hitec-hamburg.de/">Workshop on Configuration 2019</a>, <a href="http://cbsoft2019.ufba.br/#/sbesresearchtrack">SBES@CBSOFT 2019</a>, <a href="https://www.software-quality-days.com/">Software Quality Days 2020</a>, <a href="https://vamos2020.dbse.iti.cs.ovgu.de/">VaMoS 2020</a>, <a href="http://www.splc2020.net/">SPLC 2020 (Research Track)</a>, <a href="http://www.splc2020.net/">SPLC 2020 Doctoral Symposium</a>, <a href="https://sites.google.com/view/varivolution2020/">VariVolution@SPLC 2020</a>, <a href="http://confws20.ist.tugraz.at/ConfigurationWorkshop2020/">Workshop on Configuration 2020</a>, <a href="http://events.disim.univaq.it/SASI4/">SASI4@ECSA 2020</a>, <a href="https://www.software-quality-days.com/">Software Quality Days 2021</a>, <a href="https://vamos2021.fh-krems.ac.at/">VaMoS 2021</a>, <a href="https://se-2021.tu-bs.de/">SE 2021</a>, <a href="https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition">ACM Student Research Competition at ICSE 2021</a>, <a href="ksiresearch.org/seke/seke21.html">SEKE 2021</a>, <a href="https://www.aconf.org/conf_161803">INDIN 2021</a>, <a href="https://splc2021.net">SPLC 2021</a>, <a href="https://sites.google.com/view/vm4moderntech-2021/home">VM4ModernTech@SPLC 2021</a>, <a href="https://sites.google.com/view/varivolution2021">VariVolution@SPLC 2021</a>, <a href="https://weesr.github.io/">WEESR@SPLC 2021</a>, <a href="https://modevar.github.io/">MODEVAR@SPLC 2021</a>, <a href="https://www.software-quality-days.com/">SWQD 2022</a>, <a href="https://vamos2022.isti.cnr.it/">VaMoS 2022</a>, <a href="https://www.se-2022.de/">SE 2022</a>, <a href="http://ksiresearch.org/seke/seke22.html">SEKE 2022</a>, <a href="http://2022.splc.net/">SPLC 2022 Doctoral Symposium</a>, <a href="http://2022.splc.net/">SPLC 2022</a>, <a href="https://judithmichael.github.io/mopro22/cfp/">MoPro'22@Modellierung'22</a>, <a href="https://td4vis.github.io/2022/">TD4ViS@SPLC 2022</a>, <a href="https://sites.google.com/view/varivolution2021">VariVolution@SPLC 2022</a>, <a href="https://modevar.github.io/">MODEVAR@SPLC 2022</a>, <a href="https://sasi4gh.github.io/sasi4/">SASI4@ETFA 2022</a>, <a href="https://vamos2023.sdu.dk/">VaMoS 2023</a>, <a href="https://www.seuh.org/seuh2023/">SEUH 2023</a>, <a href="http://ksiresearch.org/seke/seke23.html">SEKE 2023</a>, <a href="https://2023.ieee-indin.org/">INDIN 2023</a>, <a href="https://2023.splc.net/">SPLC 2023</a>, <a href="https://2023.ieee-etfa.org/">ETFA 2023</a>, <a href="https://vamos2024.inf.unibe.ch/">VaMoS 2024</a>
-
-### Organizing Committee Memberships (only last 5 years)
-
-<ul>
- 	<li><a href="http://dsd-seaa2019.csd.auth.gr/">Euromicro SEAA 2019</a> -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
- 	<li><a href="https://splc2019.net/call-for-papers/call-for-data-demonstrations-and-tools/">SPLC 2019 -- Demonstrations and Tools</a> Chair (with Leopoldo Teixeira)</li>
- <li><a href="http://spltea.irisa.fr/">SPLTea 2019 (Workshop@SPLC 2019)</a> -- OC Co-Chair</li>
- <li><a href="https://modevar.github.io/">MODEVAR 2019 (Workshop@SPLC 2019)</a>, OC Co-Chair</li>
- 	<li><a href="https://modevar.github.io/">MODEVAR 2020 (Workshop@VaMoS 2020)</a>, OC Co-Chair</li>
-  <li><a href="http://se20.ocg.at/">SE 2020</a> -- PC Chair (with Willi Hasselbring)</li>
- <li><a href="https://dsd-seaa2020.um.si/">Euromicro SEAA 2020</a> -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
-  <li><a href="https://modevar.github.io/">MODEVAR 2020 (Workshop@SPLC 2020)</a>, OC Co-Chair</li>
- <li><a href="https://dsd-seaa2021.unipv.it/seaa/">Euromicro SEAA 2021 -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</a></li>
-  <li><a href="https://splc2021.net/call-for-papers/call-for-doctoral-symposium-papers">SPLC 2021 Doctoral Symposium Co-Chair (with Mahsa Varshosaz)</a></li>
-	<li><a href="https://dsd-seaa2022.iuma.ulpgc.es/">Euromicro SEAA 2022</a> -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
-	<li><a href="https://dsd-seaa2023.com/seaa/">Euromicro SEAA 2023</a> -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
-	<li><a href="https://se2024.se.jku.at/">SE 2024</a> -- General Co-Chair (with Manuel Wimmer)</li>
-	<li><a href="https://dsd-seaa.com/seaa-call-for-papers/">Euromicro SEAA 2024</a> -- SPPI Track Co-Chair (with Dietmar Winkler and Stefan Biffl)</li>
-</ul>
-
-### Reviewer for Journals and Magazines
-
-<a href="http://www.journals.elsevier.com/information-and-software-technology/">Information and Software Technology (IST)</a>, <a href="http://www.journals.elsevier.com/journal-of-systems-and-software/">Journal of Systems and Software (JSS)</a>, <a href="http://link.springer.com/journal/10664">Empirical Software Engineering (EMSE)</a>, <a href="http://www.journals.elsevier.com/data-and-knowledge-engineering/">Data and Knowledge Engineering (DKE)</a>, <a href="http://www.journals.elsevier.com/science-of-computer-programming/">Science of Computer Programming (SCP)</a>, <a href="http://www.computer.org/web/tse">IEEE Transactions on Software Engineering (TSE)</a>, <a href="http://link.springer.com/journal/11219">Software Quality Journal (SQJ)</a>, <a href="http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%292047-7481;jsessionid=FD9B0B2BC706A109D78A18F4A9EA2A82.f03t03">Journal of Software: Evolution and Process</a>, <a href="http://www.sosym.org/">Software and Systems Modeling (SoSyM)</a>, <a href="http://www.computer.org/web/computingnow/software">IEEE Software</a>, <a href="http://www.computer.org/web/tsc">IEEE Transactions on Service Computing (TSC)</a>, <a href="https://www.journals.elsevier.com/computer-languages-systems-and-structures/">Computer Languages, Systems and Structures (COMLAN)</a>, <a href="http://csur.acm.org/">ACM Computing Surveys</a>, <a href="http://www.jucs.org/ujs/jucs/info/special_issues/JUCS_Knowledge_Based_Configuration_2019_CfP.html">Journal of Universal Computer Science (Special Issue on Knowledge-based Configuration)</a>, <a href="https://tosem.acm.org/">ACM Transactions on Software Engineering and Methodology (TOSEM)</a>, <a href="https://www.springer.com/journal/607">Springer Computing (COMP)</a>
- 
-### (Guest) Editor for Special Sections/Issues in Journals
-
-<ul>
- 	<li>International Journal on Software Tools for Technology Transfer (STTT), <a href="http://dx.doi.org/10.1007/s10009-012-0253-y">Special Section on Software Diversity - Modeling, Analysis and Evolution</a>, Editors: Ina Schaefer, Rick Rabiser, Dave Clarke, Springer, 2011/2012.</li>
- 	<li>Information and Software Technology, <a href="http://dx.doi.org/10.1016/j.infsof.2015.06.005">Special Section on Software Engineering and Advanced Applications</a>, Editors: Rick Rabiser and Richard Torkar, Elsevier, 2014/2015.</li>
- 	<li>Journal of Systems and Software, <a href="https://www.journals.elsevier.com/journal-of-systems-and-software/call-for-papers/special-issue-on-quality-engineering-and-management-of-softw">Special Issue on Quality Engineering and Management of Software-Intensive Systems</a>, Editors: Michael Felderer, Helena Holmström Olsson, Rick Rabiser, Elsevier, 2017/2018.</li>
 </ul>
 
 ## Awards/Honorable Mentions
