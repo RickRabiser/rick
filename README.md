@@ -179,7 +179,6 @@ vol. 52(3), pp. 324-346, 2010"</li>
  	<li>Professional Member of <a href="http://www.acm.org">ACM</a></li>
 	<li>Vollmitglied der <a href="https://gi.de/">Gesellschaft für Informatik e.V.</a></li>
  	<li>Member of <a href="http://euromicro.org/">Euromicro</a></li>
- 	<li>Member of the Euromicro Board of Directors</li>
 </ul>
 
 ### Personal Interests/Hobbies
