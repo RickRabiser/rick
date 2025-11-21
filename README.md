@@ -128,7 +128,7 @@ I'm an expert in Software Engineering (research), especially in:
 ## Steering Committee Memberships
 
 <ul>
-  <li><a href="http://www.splc.net">SPLC conferences</a></li>
+  <li><a href="https://conf.researchr.org/series/variability">VARIABILITY conferences</a></li>
   <li><a href="http://www.se-konferenzen.de/">SE Konferenzen</a></li>
   <li><a href="https://modevar.github.io/">MODEVAR Workshop Series</a></li>
   <li><a href="https://rickrabiser.github.io/secpps-ws/">SECPPS Workshop Series</a></li>
@@ -137,7 +137,8 @@ I'm an expert in Software Engineering (research), especially in:
 ### Past:
 
 <ul>
- 	<li>(2014-2023) <a title="Euromicro" href="http://www.euromicro.org/cms/index.php/technical-committees/seaa-steering-committee">
+ 	<li>(2018-2025) <a href="http://www.splc.net">SPLC conferences</a></li>
+	<li>(2014-2023) <a title="Euromicro" href="http://www.euromicro.org/cms/index.php/technical-committees/seaa-steering-committee">
    Euromicro SEAA conferences</a></li>
 </ul>
 
