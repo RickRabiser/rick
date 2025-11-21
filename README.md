@@ -59,8 +59,8 @@ I'm an expert in Software Engineering (research), especially in:
 
 ## Word Cloud of my publication titles
 
-<img src="https://raw.githubusercontent.com/RickRabiser/rick/master/assets/wordcloud.png" alt="word cloud">
-(generated <a href="https://www.jasondavies.com/wordcloud/">here</a>)
+<img src="https://raw.githubusercontent.com/RickRabiser/rick/master/assets/wordcloudRRPubTitlesNov2025.png" alt="word cloud">
+(generated <a href="https://wordcloud.online">here</a>)
 
 ## Current Projects
 (also see <a href="https://www.jku.at/en/cdl-vasics/research/current-work/">Current Work</a>)
